@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/8/23 22:24:10
+// 网站数据 - 通过管理后台更新于 2025/8/23 22:25:26
 
 // 站点配置
 export const siteConfig = {
@@ -209,6 +209,17 @@ export const websiteData = [
       "MJJ"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=www.nodeloc.com"
+  },
+  {
+    "id": 1755959113421,
+    "name": "NodeSeek",
+    "description": "",
+    "url": "https://www.nodeseek.com/",
+    "category": "category_1755955707372",
+    "tags": [
+      "MJJ"
+    ],
+    "icon": "/assets/logo.png"
   }
 ];
 
