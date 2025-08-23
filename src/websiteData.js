@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/8/23 20:01:49
+// 网站数据 - 通过管理后台更新于 2025/8/23 20:02:26
 
 // 站点配置
 export const siteConfig = {
@@ -330,6 +330,13 @@ export const categories = [
     "id": "friend_links",
     "name": "友情链接",
     "icon": "/assets/link.png",
+    "special": false,
+    "subcategories": []
+  },
+  {
+    "id": "category_1755950542663",
+    "name": "论坛社区",
+    "icon": "/assets/network_icon.png",
     "special": false,
     "subcategories": []
   }
