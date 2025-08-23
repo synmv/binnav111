@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/8/23 23:16:15
+// 网站数据 - 通过管理后台更新于 2025/8/23 23:19:18
 
 // 站点配置
 export const siteConfig = {
@@ -334,15 +334,14 @@ export const categories = [
         "icon": "/assets/Browser-Code.png",
         "special": false,
         "subcategories": []
+      },
+      {
+        "id": "category_1755962110799",
+        "name": "AI工具",
+        "icon": "/assets/ai.png",
+        "special": false
       }
     ]
-  },
-  {
-    "id": "category_1755962110799",
-    "name": "AI工具",
-    "icon": "/assets/ai.png",
-    "special": false,
-    "subcategories": []
   },
   {
     "id": "dev_tools",
