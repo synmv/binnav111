@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/8/23 22:25:26
+// 网站数据 - 通过管理后台更新于 2025/8/23 22:26:45
 
 // 站点配置
 export const siteConfig = {
@@ -220,6 +220,17 @@ export const websiteData = [
       "MJJ"
     ],
     "icon": "/assets/logo.png"
+  },
+  {
+    "id": 1755959199636,
+    "name": "Hostloc",
+    "description": "全球主机交流论坛 - Powered by Discuz!",
+    "url": "https://hostloc.com/forum.php",
+    "category": "category_1755955707372",
+    "tags": [
+      "MJJ"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=hostloc.com"
   }
 ];
 
