@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/8/23 20:02:41
+// 网站数据 - 通过管理后台更新于 2025/8/23 20:03:09
 
 // 站点配置
 export const siteConfig = {
@@ -12,86 +12,6 @@ export const siteConfig = {
 };
 
 export const websiteData = [
-  {
-    "id": 1751807882512,
-    "name": "个人站点",
-    "description": "作者个人站点展示",
-    "url": "https://i.bincore.cn/",
-    "category": "author",
-    "tags": [
-      "个人站点"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=i.bincore.cn"
-  },
-  {
-    "id": 40,
-    "name": "Newbie Village",
-    "description": "二进制博客",
-    "url": "https://blog.nbvil.com/",
-    "category": "author",
-    "tags": [
-      "个人博客",
-      "教程分享",
-      "开发心得"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=blog.nbvil.com"
-  },
-  {
-    "id": 1751813976438,
-    "name": "博主云盘",
-    "description": "分享教程涉及的工具及相关文档代码",
-    "url": "https://pan.nbvil.com/",
-    "category": "author",
-    "tags": [
-      "云盘"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=pan.nbvil.com"
-  },
-  {
-    "id": 1751598590526,
-    "name": "YouTube频道",
-    "description": "作者YouTube频道，定期上传视频教程",
-    "url": "https://www.youtube.com/@nbvil.sindri",
-    "category": "author",
-    "tags": [
-      "视频"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=www.youtube.com"
-  },
-  {
-    "id": 41,
-    "name": "GitHub Projects",
-    "description": "作者开源项目",
-    "url": "https://github.com/sindricn",
-    "category": "author",
-    "tags": [
-      "开源项目"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=github.com"
-  },
-  {
-    "id": 1751596898467,
-    "name": "B站",
-    "description": "作者B站频道，不定期上传视频教程",
-    "url": "https://space.bilibili.com/3546865807133625",
-    "category": "author",
-    "tags": [
-      "视频"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=bilibili.com"
-  },
-  {
-    "id": 45,
-    "name": "知乎专栏",
-    "description": "二进制-知乎",
-    "url": "https://www.zhihu.com/people/mrblack-41-9",
-    "category": "author",
-    "tags": [
-      "知乎专栏",
-      "技术文章"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=www.zhihu.com"
-  },
   {
     "id": 1751617129171,
     "name": "Cloudflare",
