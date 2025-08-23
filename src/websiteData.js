@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/8/23 22:26:45
+// 网站数据 - 通过管理后台更新于 2025/8/23 22:28:39
 
 // 站点配置
 export const siteConfig = {
@@ -198,6 +198,24 @@ export const websiteData = [
     "category": "category_1755950542663",
     "tags": [],
     "icon": "https://icon.nbvil.com/favicon?url=cnodejs.org"
+  },
+  {
+    "id": 1755959275331,
+    "name": "Reddit",
+    "description": "Reddit - The heart of the internet",
+    "url": "https://www.reddit.com/",
+    "category": "category_1755950542663",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=www.reddit.com"
+  },
+  {
+    "id": 1755959317524,
+    "name": "Quora",
+    "description": "Quora - 知識を共有し合い、世界を知ろう",
+    "url": "https://jp.quora.com/",
+    "category": "category_1755950542663",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=jp.quora.com"
   },
   {
     "id": 1755959048133,
