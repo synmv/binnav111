@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/8/23 22:30:37
+// 网站数据 - 通过管理后台更新于 2025/8/23 22:30:51
 
 // 站点配置
 export const siteConfig = {
@@ -254,13 +254,6 @@ export const websiteData = [
 
 // 分类定义 - 支持二级分类
 export const categories = [
-  {
-    "id": "author",
-    "name": "作者专栏",
-    "icon": "/assets/tech_blogger_avatar.png",
-    "special": true,
-    "subcategories": []
-  },
   {
     "id": "recommended",
     "name": "常用推荐",
