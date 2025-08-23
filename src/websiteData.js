@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/8/23 22:37:45
+// 网站数据 - 通过管理后台更新于 2025/8/23 23:16:15
 
 // 站点配置
 export const siteConfig = {
@@ -37,6 +37,33 @@ export const websiteData = [
       "CDN"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=edgeone.ai"
+  },
+  {
+    "id": 1755961853711,
+    "name": "Github",
+    "description": "面向开源及私有软件项目的托管平台",
+    "url": "https://github.com",
+    "category": "recommended",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=github.com"
+  },
+  {
+    "id": 1755961894986,
+    "name": "码云",
+    "description": "码云专为开发者提供稳定、高效、安全的云端软件开发协作平台",
+    "url": "https://gitee.com",
+    "category": "recommended",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=gitee.com"
+  },
+  {
+    "id": 1755961959537,
+    "name": "Coding",
+    "description": "面向开发者的云端开发平台，提供 git/svn 代码托管，代码质量分析，在线WebIDE，项目管理...",
+    "url": "https://coding.net",
+    "category": "recommended",
+    "tags": [],
+    "icon": "/assets/logo.png"
   },
   {
     "id": 1751811992820,
@@ -267,6 +294,15 @@ export const websiteData = [
       "MJJ"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=hostloc.com"
+  },
+  {
+    "id": 1755962154104,
+    "name": "麦吉 (Magic)",
+    "description": "麦吉 (Magic) - 灯塔引擎新一代企业级 AI 应用创新引擎",
+    "url": "https://www.letsmagic.ai",
+    "category": "category_1755962110799",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=www.letsmagic.ai"
   }
 ];
 
@@ -300,6 +336,13 @@ export const categories = [
         "subcategories": []
       }
     ]
+  },
+  {
+    "id": "category_1755962110799",
+    "name": "AI工具",
+    "icon": "/assets/ai.png",
+    "special": false,
+    "subcategories": []
   },
   {
     "id": "dev_tools",
