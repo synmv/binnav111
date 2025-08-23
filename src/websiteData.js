@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/8/23 23:20:39
+// 网站数据 - 通过管理后台更新于 2025/8/23 23:22:50
 
 // 站点配置
 export const siteConfig = {
@@ -102,6 +102,18 @@ export const websiteData = [
     "icon": "https://icon.nbvil.com/favicon?url=grok.com"
   },
   {
+    "id": 1751812223718,
+    "name": "Claude",
+    "description": "由 Anthropic 开发的先进AI助手，专为开发者打造，擅长代码生成、调试建议和技术问题解答",
+    "url": "https://claude.ai/login",
+    "category": "category_1751811714830",
+    "tags": [
+      "AI",
+      "对话"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=claude.ai"
+  },
+  {
     "id": 1751812924193,
     "name": "Agentment",
     "description": "多智能体协作与自动化平台，解锁 AI 生产力。",
@@ -113,19 +125,6 @@ export const websiteData = [
       "开发"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=www.augmentcode.com"
-  },
-  {
-    "id": 1751812223718,
-    "name": "Claude",
-    "description": "由 Anthropic 开发的先进AI助手，专为开发者打造，擅长代码生成、调试建议和技术问题解答",
-    "url": "https://claude.ai/login",
-    "category": "category_1751811752885",
-    "tags": [
-      "AI",
-      "工具",
-      "开发"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=claude.ai"
   },
   {
     "id": 1751812327874,
@@ -178,6 +177,15 @@ export const websiteData = [
       "开发"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=cloud.google.com"
+  },
+  {
+    "id": 1755962154104,
+    "name": "麦吉 (Magic)",
+    "description": "麦吉 (Magic) - 灯塔引擎新一代企业级 AI 应用创新引擎",
+    "url": "https://www.letsmagic.ai",
+    "category": "category_1755962110799",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=www.letsmagic.ai"
   },
   {
     "id": 33,
@@ -294,15 +302,6 @@ export const websiteData = [
       "MJJ"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=hostloc.com"
-  },
-  {
-    "id": 1755962154104,
-    "name": "麦吉 (Magic)",
-    "description": "麦吉 (Magic) - 灯塔引擎新一代企业级 AI 应用创新引擎",
-    "url": "https://www.letsmagic.ai",
-    "category": "category_1755962110799",
-    "tags": [],
-    "icon": "https://icon.nbvil.com/favicon?url=www.letsmagic.ai"
   }
 ];
 
