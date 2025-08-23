@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/8/23 22:28:39
+// 网站数据 - 通过管理后台更新于 2025/8/23 22:30:37
 
 // 站点配置
 export const siteConfig = {
@@ -25,6 +25,18 @@ export const websiteData = [
       "DDOS"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=www.cloudflare.com"
+  },
+  {
+    "id": 1751807806262,
+    "name": "EdgeOne",
+    "description": "全球首个支持中国访问的免费CDN",
+    "url": "https://edgeone.ai/zh",
+    "category": "recommended",
+    "tags": [
+      "网站",
+      "CDN"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=edgeone.ai"
   },
   {
     "id": 1751811992820,
@@ -177,18 +189,6 @@ export const websiteData = [
       "开发"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=termius.com"
-  },
-  {
-    "id": 1751807806262,
-    "name": "EdgeOne",
-    "description": "全球首个支持中国访问的免费CDN",
-    "url": "https://edgeone.ai/zh",
-    "category": "friend_links",
-    "tags": [
-      "网站",
-      "CDN"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=edgeone.ai"
   },
   {
     "id": 1755950507987,
