@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/8/23 22:30:51
+// 网站数据 - 通过管理后台更新于 2025/8/23 22:37:45
 
 // 站点配置
 export const siteConfig = {
@@ -216,6 +216,24 @@ export const websiteData = [
     "category": "category_1755950542663",
     "tags": [],
     "icon": "https://icon.nbvil.com/favicon?url=jp.quora.com"
+  },
+  {
+    "id": 1755959736761,
+    "name": "Stack Overflow",
+    "description": "全球最大的技术问答网站，是一个与程序相关的IT技术问答网站",
+    "url": "https://stackoverflow.com",
+    "category": "category_1755950542663",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=stackoverflow.com"
+  },
+  {
+    "id": 1755959799240,
+    "name": "黑客派",
+    "description": "黑客派是程序员和设计师的聚集地，汇聚了严谨求实的工程师和富有创意的设计师",
+    "url": "https://hacpai.com",
+    "category": "category_1755950542663",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=hacpai.com"
   },
   {
     "id": 1755959048133,
