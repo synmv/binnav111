@@ -1,0 +1,152 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* CSS变量定义 */
+:root {
+  --radius: 0.5rem;
+  --background: 250 250 250;
+  --foreground: 39 39 42;
+  --card: 255 255 255;
+  --card-foreground: 39 39 42;
+  --popover: 255 255 255;
+  --popover-foreground: 39 39 42;
+  --primary: 24 24 27;
+  --primary-foreground: 250 250 250;
+  --secondary: 244 244 245;
+  --secondary-foreground: 39 39 42;
+  --muted: 244 244 245;
+  --muted-foreground: 113 113 122;
+  --accent: 244 244 245;
+  --accent-foreground: 39 39 42;
+  --destructive: 239 68 68;
+  --destructive-foreground: 250 250 250;
+  --border: 228 228 231;
+  --input: 228 228 231;
+  --ring: 147 197 253;
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-gradient-to-br from-slate-50 via-blue-50 to-indigo-50 text-foreground;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', sans-serif;
+  }
+}
+
+/* BinNav 特色样式 */
+.binnav-card {
+  @apply bg-white border border-gray-200 rounded-2xl transition-all duration-300;
+  @apply hover:shadow-xl;
+}
+
+.binnav-card.author-card {
+  @apply bg-gradient-to-br from-purple-50 to-pink-50 border-purple-200;
+  @apply hover:shadow-xl hover:border-purple-300;
+}
+
+.binnav-sidebar-item {
+  @apply flex items-center w-full px-3 py-2 text-sm text-gray-700 rounded-md transition-colors;
+  @apply hover:bg-gray-50 hover:text-gray-900;
+}
+
+.binnav-sidebar-item.active {
+  @apply bg-blue-50 text-blue-700 border-r-2 border-blue-700;
+}
+
+/* 文本截断效果 */
+.line-clamp-2 {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* 响应式布局优化 */
+@media (max-width: 768px) {
+  .binnav-mobile-padding {
+    @apply px-3;
+  }
+
+  .binnav-mobile-grid {
+    @apply grid-cols-1;
+  }
+
+  /* 移动端图标显示优化 */
+  img {
+    image-rendering: auto;
+    -webkit-image-smoothing: true;
+    image-rendering: -webkit-optimize-contrast;
+  }
+
+  /* 确保图标容器在移动端正确显示 */
+  .flex-shrink-0 {
+    flex-shrink: 0 !important;
+    min-width: 32px;
+    min-height: 32px;
+  }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+  .binnav-tablet-grid {
+    @apply grid-cols-2;
+  }
+}
+
+@media (min-width: 1025px) {
+  .binnav-desktop-grid {
+    @apply grid-cols-3;
+  }
+}
+
+/* 加载动画 */
+.binnav-fade-in {
+  animation: fadeIn 0.3s ease-in-out;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* 网站图标样式 */
+.binnav-site-icon {
+  @apply w-12 h-12 rounded-2xl shadow-lg bg-white/80 backdrop-blur-sm border border-white/20 p-2;
+  @apply flex items-center justify-center overflow-hidden transition-all duration-300;
+}
+
+.binnav-site-icon img {
+  @apply w-full h-full object-contain rounded-lg;
+}
+
+.binnav-site-icon:hover {
+  @apply shadow-xl scale-105;
+}
+
+/* 分类图标样式 */
+.binnav-category-icon {
+  @apply w-5 h-5 opacity-80;
+}
+
+/* 标签样式 */
+.binnav-tag {
+  @apply inline-block px-2 py-1 text-xs bg-gray-100 text-gray-600 rounded;
+  @apply hover:bg-gray-200 transition-colors cursor-default;
+}
+
+/* 卡片悬停效果增强 */
+.binnav-card:hover .binnav-site-icon {
+  @apply shadow-md border-blue-200;
+}
+
+.binnav-card:hover h3 {
+  @apply text-blue-600;
+}

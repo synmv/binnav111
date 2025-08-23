@@ -1,0 +1,65 @@
+{
+  "buildCommand": "npm run build",
+  "installCommand": "npm install",
+  "outputDirectory": "dist",
+  "rootDirectory": "./",
+  "framework": "vite",
+  "nodeVersion": "20.x",
+  "environmentVariables": {
+    "ADMIN_PASSWORD": {
+      "description": "管理后台登录密码",
+      "required": false,
+      "default": "admin"
+    },
+    "GITHUB_TOKEN": {
+      "description": "GitHub Personal Access Token，用于自动更新配置文件",
+      "required": false
+    },
+    "GITHUB_REPO": {
+      "description": "GitHub仓库名称，格式：用户名/仓库名",
+      "required": false
+    },
+    "RESEND_API_KEY": {
+      "description": "Resend API Key，用于邮件服务",
+      "required": false
+    },
+    "ADMIN_EMAIL": {
+      "description": "管理员邮箱，接收新站点提交通知",
+      "required": false
+    },
+    "RESEND_DOMAIN": {
+      "description": "Resend发送域名（仅域名部分，不包含@符号）",
+      "required": false
+    }
+  },
+  "functions": {
+    "directory": "functions",
+    "runtime": "nodejs18.x"
+  },
+  "redirects": [
+    {
+      "source": "/admin",
+      "destination": "/admin",
+      "statusCode": 200
+    }
+  ],
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "X-Frame-Options",
+          "value": "DENY"
+        },
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "Referrer-Policy",
+          "value": "strict-origin-when-cross-origin"
+        }
+      ]
+    }
+  ]
+}

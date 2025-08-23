@@ -1,0 +1,6 @@
+name = "bin-nav"
+compatibility_date = "2024-07-01"
+pages_build_output_dir = "./dist"
+
+[[pages_functions]]
+directory = "functions"
