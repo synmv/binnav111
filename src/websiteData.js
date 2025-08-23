@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/8/23 20:02:26
+// 网站数据 - 通过管理后台更新于 2025/8/23 20:02:41
 
 // 站点配置
 export const siteConfig = {
@@ -259,15 +259,6 @@ export const websiteData = [
     "icon": "https://icon.nbvil.com/favicon?url=termius.com"
   },
   {
-    "id": 1755950507987,
-    "name": "Node.js专业中文社区",
-    "description": "国内最专业的 Node.js 开源技术社区，致力于 Node.js 的技术研究",
-    "url": "https://cnodejs.org",
-    "category": "dev_tools",
-    "tags": [],
-    "icon": "https://icon.nbvil.com/favicon?url=cnodejs.org"
-  },
-  {
     "id": 1751807806262,
     "name": "EdgeOne",
     "description": "全球首个支持中国访问的免费CDN",
@@ -278,6 +269,15 @@ export const websiteData = [
       "CDN"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=edgeone.ai"
+  },
+  {
+    "id": 1755950507987,
+    "name": "Node.js专业中文社区",
+    "description": "国内最专业的 Node.js 开源技术社区，致力于 Node.js 的技术研究",
+    "url": "https://cnodejs.org",
+    "category": "category_1755950542663",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=cnodejs.org"
   }
 ];
 
