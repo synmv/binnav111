@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/8/23 23:59:55
+// 网站数据 - 通过管理后台更新于 2025/8/24 00:04:51
 
 // 站点配置
 export const siteConfig = {
@@ -112,6 +112,15 @@ export const websiteData = [
       "对话"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=claude.ai"
+  },
+  {
+    "id": 1755965058303,
+    "name": "Google Gemini",
+    "description": "",
+    "url": "https://gemini.google.com",
+    "category": "category_1751811714830",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=gemini.google.com"
   },
   {
     "id": 1751812924193,
