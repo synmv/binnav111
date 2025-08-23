@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/8/23 20:03:09
+// 网站数据 - 通过管理后台更新于 2025/8/23 22:24:10
 
 // 站点配置
 export const siteConfig = {
@@ -198,6 +198,17 @@ export const websiteData = [
     "category": "category_1755950542663",
     "tags": [],
     "icon": "https://icon.nbvil.com/favicon?url=cnodejs.org"
+  },
+  {
+    "id": 1755959048133,
+    "name": "NodeLoc",
+    "description": "NodeLoc - 自由地讨论互联网资源",
+    "url": "https://www.nodeloc.com/",
+    "category": "category_1755955707372",
+    "tags": [
+      "MJJ"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=www.nodeloc.com"
   }
 ];
 
@@ -257,6 +268,13 @@ export const categories = [
     "id": "category_1755950542663",
     "name": "论坛社区",
     "icon": "/assets/network_icon.png",
+    "special": false,
+    "subcategories": []
+  },
+  {
+    "id": "category_1755955707372",
+    "name": "MJJ论坛",
+    "icon": "/assets/tools_icon.png",
     "special": false,
     "subcategories": []
   }
