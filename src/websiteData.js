@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/8/23 23:22:50
+// 网站数据 - 通过管理后台更新于 2025/8/23 23:59:55
 
 // 站点配置
 export const siteConfig = {
@@ -346,13 +346,6 @@ export const categories = [
     "id": "dev_tools",
     "name": "开发工具",
     "icon": "/assets/Xcode--Streamline-Svg-Logos.png",
-    "special": false,
-    "subcategories": []
-  },
-  {
-    "id": "friend_links",
-    "name": "友情链接",
-    "icon": "/assets/link.png",
     "special": false,
     "subcategories": []
   },
