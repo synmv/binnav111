@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/8/24 22:34:11
+// 网站数据 - 通过管理后台更新于 2025/8/24 22:40:24
 
 // 站点配置
 export const siteConfig = {
@@ -240,6 +240,15 @@ export const websiteData = [
       "开发"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=cloud.google.com"
+  },
+  {
+    "id": 1756046255472,
+    "name": "Google Colaboratory",
+    "description": "一个由Google 提供的、基于云端的免费Jupyter 笔记本服务，名为 Google Colaboratory (Colab)。它允许用户在浏览器中直接编写、执行Python 代码，并免费使用Google 提供的计算资源（如GPU 和TPU），特别适合用于机器学习、数据科学和教育用途，无需进行本地配置和安装。",
+    "url": "https://colab.research.google.com",
+    "category": "category_1751811752885",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=colab.research.google.com"
   },
   {
     "id": 1755962154104,
