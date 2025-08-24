@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/8/24 16:44:09
+// 网站数据 - 通过管理后台更新于 2025/8/24 16:52:58
 
 // 站点配置
 export const siteConfig = {
@@ -391,7 +391,7 @@ export const categories = [
   {
     "id": "recommended",
     "name": "常用推荐",
-    "icon": "/assets/star.png",
+    "icon": "/assets/StreamlinePlumpColorAiEditRobot.svg",
     "special": false,
     "subcategories": []
   },
