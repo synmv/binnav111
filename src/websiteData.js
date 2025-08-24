@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/8/24 21:05:02
+// 网站数据 - 通过管理后台更新于 2025/8/24 21:21:31
 
 // 站点配置
 export const siteConfig = {
@@ -64,6 +64,15 @@ export const websiteData = [
     "category": "recommended",
     "tags": [],
     "icon": "/assets/logo.png"
+  },
+  {
+    "id": 1756041687683,
+    "name": "Docker Hub",
+    "description": "Docker Hub 是一个云托管的公共注册中心，由Docker 官方提供，用户可以在上面存储、分发和管理 Docker 容器镜像。它提供了丰富的公开容器镜像库，供开发者查找和使用来自开源项目、软件供应商和社区的镜像。用户可以注册账户来上传自己的私有或公开镜像，并可以利用它与CI/CD 工具链集成，实现自动化构建和协作。",
+    "url": "https://hub.docker.com/",
+    "category": "recommended",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=hub.docker.com"
   },
   {
     "id": 1751811992820,
@@ -235,6 +244,42 @@ export const websiteData = [
     "icon": "https://icon.nbvil.com/favicon?url=termius.com"
   },
   {
+    "id": 1756040438666,
+    "name": "哔哩哔哩",
+    "description": "国内知名的视频弹幕网站，这里有最及时的动漫新番，最棒的ACG氛围，最有创意的Up主",
+    "url": "https://www.bilibili.com",
+    "category": "category_1756033344174",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=www.bilibili.com"
+  },
+  {
+    "id": 1756040471602,
+    "name": "Youtube",
+    "description": "全球最大的视频网站",
+    "url": "https://www.youtube.com",
+    "category": "category_1756033344174",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=www.youtube.com"
+  },
+  {
+    "id": 1756040539296,
+    "name": "樱桃8影视",
+    "description": "最新电影在线看,最新电影下载,免费高清电影网",
+    "url": "https://yt.jk.loc.cc/",
+    "category": "category_1756033344174",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=yt.jk.loc.cc"
+  },
+  {
+    "id": 1756040574259,
+    "name": "樱桃8影视2",
+    "description": "最新电影在线看,最新电影下载,免费高清电影网",
+    "url": "https://vn.llk.xx.kg/",
+    "category": "category_1756033344174",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=vn.llk.xx.kg"
+  },
+  {
     "id": 1755950507987,
     "name": "Node.js专业中文社区",
     "description": "国内最专业的 Node.js 开源技术社区，致力于 Node.js 的技术研究",
@@ -383,42 +428,6 @@ export const websiteData = [
     "category": "category_1756024714746",
     "tags": [],
     "icon": "https://icon.nbvil.com/favicon?url=icones.js.org"
-  },
-  {
-    "id": 1756040438666,
-    "name": "哔哩哔哩",
-    "description": "国内知名的视频弹幕网站，这里有最及时的动漫新番，最棒的ACG氛围，最有创意的Up主",
-    "url": "https://www.bilibili.com",
-    "category": "category_1756033344174",
-    "tags": [],
-    "icon": "https://icon.nbvil.com/favicon?url=www.bilibili.com"
-  },
-  {
-    "id": 1756040471602,
-    "name": "Youtube",
-    "description": "全球最大的视频网站",
-    "url": "https://www.youtube.com",
-    "category": "category_1756033344174",
-    "tags": [],
-    "icon": "https://icon.nbvil.com/favicon?url=www.youtube.com"
-  },
-  {
-    "id": 1756040539296,
-    "name": "樱桃8影视",
-    "description": "最新电影在线看,最新电影下载,免费高清电影网",
-    "url": "https://yt.jk.loc.cc/",
-    "category": "category_1756033344174",
-    "tags": [],
-    "icon": "https://icon.nbvil.com/favicon?url=yt.jk.loc.cc"
-  },
-  {
-    "id": 1756040574259,
-    "name": "樱桃8影视2",
-    "description": "最新电影在线看,最新电影下载,免费高清电影网",
-    "url": "https://vn.llk.xx.kg/",
-    "category": "category_1756033344174",
-    "tags": [],
-    "icon": "https://icon.nbvil.com/favicon?url=vn.llk.xx.kg"
   }
 ];
 
