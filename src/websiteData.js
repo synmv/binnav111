@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/8/24 21:57:18
+// 网站数据 - 通过管理后台更新于 2025/8/24 22:17:32
 
 // 站点配置
 export const siteConfig = {
@@ -509,6 +509,33 @@ export const websiteData = [
     "category": "category_1756033369845",
     "tags": [],
     "icon": "/assets/logo.png"
+  },
+  {
+    "id": 1756044051468,
+    "name": "Open Access Library",
+    "description": "Open Access Library（开放存取图书馆） 网站，它是一个为学术研究者提供免费阅读海量科技论文的元数据库和开源论文发布平台。该网站收录了数学、物理、化学、生物、医学等多个学科的开源论文，读者可以免费下载和阅读所有文章，同时它也为研究者提供了一个发表论文的平台。",
+    "url": "https://www.oalib.com/",
+    "category": "category_1756033369845",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=www.oalib.com"
+  },
+  {
+    "id": 1756044107376,
+    "name": "Goodreads",
+    "description": "Goodreads是一家图书分享型社交网站。",
+    "url": "https://www.goodreads.com/",
+    "category": "category_1756033369845",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=www.goodreads.com"
+  },
+  {
+    "id": 1756045043779,
+    "name": "Z-Library Access",
+    "description": "",
+    "url": "https://library-access.sk/",
+    "category": "category_1756033369845",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=library-access.sk"
   }
 ];
 
