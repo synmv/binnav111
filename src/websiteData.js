@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/8/24 16:52:58
+// 网站数据 - 通过管理后台更新于 2025/8/24 18:49:10
 
 // 站点配置
 export const siteConfig = {
@@ -392,6 +392,13 @@ export const categories = [
     "id": "recommended",
     "name": "常用推荐",
     "icon": "/assets/StreamlinePlumpColorAiEditRobot.svg",
+    "special": false,
+    "subcategories": []
+  },
+  {
+    "id": "category_1756032535750",
+    "name": "消防相关",
+    "icon": "/assets/Xcode--Streamline-Svg-Logos.png",
     "special": false,
     "subcategories": []
   },
