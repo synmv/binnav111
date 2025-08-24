@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/8/24 22:17:32
+// 网站数据 - 通过管理后台更新于 2025/8/24 22:23:20
 
 // 站点配置
 export const siteConfig = {
@@ -536,6 +536,15 @@ export const websiteData = [
     "category": "category_1756033369845",
     "tags": [],
     "icon": "https://icon.nbvil.com/favicon?url=library-access.sk"
+  },
+  {
+    "id": 1756045397935,
+    "name": "安娜的档案",
+    "description": "我们保存书籍、论文、漫画、杂志等资料，将这些资料从各种影子图书馆、官办图书馆、其他收藏集等集中到一处。通过简化批量复制的过程——利用BT种子，这些数据在世界各处就能有多份副本，从而得以永久保存。有些影子图书馆自身已采用这种方式（如 Sci-Hub、Library Genesis），而安娜的档案还“解放”了其他不提供批量分发的影子图书馆（如 Z-Library）、无法称为影子图书馆的图书馆（如 Internet Archive、读秀）的馆藏数据。",
+    "url": "https://zh.annas-archive.org/",
+    "category": "category_1756033369845",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=zh.annas-archive.org"
   }
 ];
 
