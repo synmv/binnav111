@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/8/24 16:31:51
+// 网站数据 - 通过管理后台更新于 2025/8/24 16:42:05
 
 // 站点配置
 export const siteConfig = {
@@ -320,6 +320,51 @@ export const websiteData = [
       "MJJ"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=hostloc.com"
+  },
+  {
+    "id": 1756024781161,
+    "name": "iconfont",
+    "description": "阿里妈妈MUX倾力打造的矢量图标管理、交流平台",
+    "url": "http://www.iconfont.cn",
+    "category": "category_1756024714746",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=iconfont.cn"
+  },
+  {
+    "id": 1756024811191,
+    "name": "Font Awesome",
+    "description": "一套绝佳的图标字体库和CSS框架",
+    "url": "https://fontawesome.com",
+    "category": "category_1756024714746",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=fontawesome.com"
+  },
+  {
+    "id": 1756024840513,
+    "name": "LivIcons Evolution",
+    "description": "会动的纯svg矢量图标库",
+    "url": "https://livicons.com",
+    "category": "category_1756024714746",
+    "tags": [],
+    "icon": "/assets/logo.png"
+  },
+  {
+    "id": 1756024891685,
+    "name": "ionicons",
+    "description": "适用于Ionic Framework和Web应用程序的高级图标字体",
+    "url": "https://ionicons.com",
+    "category": "category_1756024714746",
+    "tags": [],
+    "icon": "/assets/logo.png"
+  },
+  {
+    "id": 1756024922827,
+    "name": "material-design-icons",
+    "description": "Google的Material Design图标",
+    "url": "https://material.io/tools/icons",
+    "category": "category_1756024714746",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=material.io"
   }
 ];
 
@@ -378,6 +423,13 @@ export const categories = [
     "id": "category_1755955707372",
     "name": "MJJ论坛",
     "icon": "/assets/tools_icon.png",
+    "special": false,
+    "subcategories": []
+  },
+  {
+    "id": "category_1756024714746",
+    "name": "图标库",
+    "icon": "/assets/dev_tools_icon.png",
     "special": false,
     "subcategories": []
   }
