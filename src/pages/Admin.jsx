@@ -330,7 +330,7 @@ function Admin() {
                         value={siteSettings.siteTitle}
                         onChange={(e) => setSiteSettings({...siteSettings, siteTitle: e.target.value})}
                         className="w-full p-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
-                        placeholder="BinNav - 精选网站导航"
+                        placeholder="Synapse's Bookmarks - 导航"
                       />
                       <p className="text-xs text-gray-500 mt-1">显示在浏览器标签页和搜索引擎中的标题</p>
                     </div>
