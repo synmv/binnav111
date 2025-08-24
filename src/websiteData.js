@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/8/24 16:42:57
+// 网站数据 - 通过管理后台更新于 2025/8/24 16:44:09
 
 // 站点配置
 export const siteConfig = {
@@ -374,6 +374,15 @@ export const websiteData = [
     "category": "category_1756024714746",
     "tags": [],
     "icon": "https://icon.nbvil.com/favicon?url=yesicon.app"
+  },
+  {
+    "id": 1756025040260,
+    "name": "Icônes",
+    "description": "",
+    "url": "https://icones.js.org/",
+    "category": "category_1756024714746",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=icones.js.org"
   }
 ];
 
