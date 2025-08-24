@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/8/24 16:42:05
+// 网站数据 - 通过管理后台更新于 2025/8/24 16:42:57
 
 // 站点配置
 export const siteConfig = {
@@ -365,6 +365,15 @@ export const websiteData = [
     "category": "category_1756024714746",
     "tags": [],
     "icon": "https://icon.nbvil.com/favicon?url=material.io"
+  },
+  {
+    "id": 1756024975966,
+    "name": "Yesicon",
+    "description": "Yesicon - 精选全球高品质、开源、免费的矢量图标库",
+    "url": "https://yesicon.app/",
+    "category": "category_1756024714746",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=yesicon.app"
   }
 ];
 
