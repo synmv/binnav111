@@ -1,8 +1,8 @@
-// 网站数据 - 通过管理后台更新于 2025/8/24 23:10:14
+// 网站数据 - 通过管理后台更新于 2025/8/24 23:37:15
 
 // 站点配置
 export const siteConfig = {
-  "siteName": "Synapse'Bookmarks",
+  "siteName": "Synapse's Bookmarks",
   "siteTitle": "Synapse - 导航",
   "siteLogo": "/assets/logo.png",
   "siteDescription": "二进制导航页面，精选优质站点",
