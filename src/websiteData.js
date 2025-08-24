@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/8/24 21:21:31
+// 网站数据 - 通过管理后台更新于 2025/8/24 21:55:52
 
 // 站点配置
 export const siteConfig = {
@@ -132,6 +132,24 @@ export const websiteData = [
     "icon": "https://icon.nbvil.com/favicon?url=gemini.google.com"
   },
   {
+    "id": 1756043643949,
+    "name": "ChatBotChatApp",
+    "description": "智能AI助手 | 多合一AI聊天机器人 | 支持所有国家",
+    "url": "https://chatbotchatapp.com/",
+    "category": "category_1751811714830",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=chatbotchatapp.com"
+  },
+  {
+    "id": 1756043716864,
+    "name": "RawChat",
+    "description": "免费的共享Claude账号",
+    "url": "https://kelaode.ai/",
+    "category": "category_1751811714830",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=kelaode.ai"
+  },
+  {
     "id": 1751812924193,
     "name": "Agentment",
     "description": "多智能体协作与自动化平台，解锁 AI 生产力。",
@@ -204,6 +222,15 @@ export const websiteData = [
     "category": "category_1755962110799",
     "tags": [],
     "icon": "https://icon.nbvil.com/favicon?url=www.letsmagic.ai"
+  },
+  {
+    "id": 1756043543192,
+    "name": "AICNN",
+    "description": "AICNN - aicnn | 领先的AI技术平台 | AI绘画 | AI插件 | AI语音生成 | GPTS",
+    "url": "https://aicnn.cn/",
+    "category": "category_1755962110799",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=aicnn.cn"
   },
   {
     "id": 33,
@@ -428,6 +455,60 @@ export const websiteData = [
     "category": "category_1756024714746",
     "tags": [],
     "icon": "https://icon.nbvil.com/favicon?url=icones.js.org"
+  },
+  {
+    "id": 1756043162981,
+    "name": "上海图书馆",
+    "description": "上海图书馆",
+    "url": "https://www.library.sh.cn/",
+    "category": "category_1756033369845",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=sh.cn"
+  },
+  {
+    "id": 1756043197805,
+    "name": "AllYouCanRead",
+    "description": "AllYouCanRead - World News Sites, US Newspapers, Top Magazines - AllYouCanRead.com",
+    "url": "https://www.allyoucanread.com/",
+    "category": "category_1756033369845",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=www.allyoucanread.com"
+  },
+  {
+    "id": 1756043250600,
+    "name": "Project Gutenberg",
+    "description": "Free eBooks | Project Gutenberg",
+    "url": "https://www.gutenberg.org/",
+    "category": "category_1756033369845",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=www.gutenberg.org"
+  },
+  {
+    "id": 1756043301877,
+    "name": "Convertio",
+    "description": "MOBI轉EPUB轉換器。在线自由 — Convertio",
+    "url": "https://convertio.co/zh/mobi-epub/",
+    "category": "category_1756033369845",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=convertio.co"
+  },
+  {
+    "id": 1756043359632,
+    "name": "PDF Drive",
+    "description": "PDF Drive - Search and download PDF files for free.",
+    "url": "https://www.pdfdrive.com/",
+    "category": "category_1756033369845",
+    "tags": [],
+    "icon": "/assets/logo.png"
+  },
+  {
+    "id": 1756043445623,
+    "name": "知妖",
+    "description": "知妖（中国妖怪百集）",
+    "url": "https://www.czhiyao.com/",
+    "category": "category_1756033369845",
+    "tags": [],
+    "icon": "/assets/logo.png"
   }
 ];
 
