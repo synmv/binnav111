@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/8/24 22:40:24
+// 网站数据 - 通过管理后台更新于 2025/8/24 23:04:44
 
 // 站点配置
 export const siteConfig = {
@@ -667,6 +667,13 @@ export const categories = [
     "id": "category_1756033369845",
     "name": "图书资料",
     "icon": "/assets/education_icon.png",
+    "special": false,
+    "subcategories": []
+  },
+  {
+    "id": "category_1756047882772",
+    "name": "站长工具",
+    "icon": "/assets/innovation_icon.png",
     "special": false,
     "subcategories": []
   }
