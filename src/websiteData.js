@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/8/24 00:04:51
+// 网站数据 - 通过管理后台更新于 2025/8/24 16:31:51
 
 // 站点配置
 export const siteConfig = {
@@ -116,7 +116,7 @@ export const websiteData = [
   {
     "id": 1755965058303,
     "name": "Google Gemini",
-    "description": "",
+    "description": "Google多模态AI",
     "url": "https://gemini.google.com",
     "category": "category_1751811714830",
     "tags": [],
@@ -280,6 +280,15 @@ export const websiteData = [
     "icon": "https://icon.nbvil.com/favicon?url=hacpai.com"
   },
   {
+    "id": 1756024308211,
+    "name": "HelloGitHub",
+    "description": "有趣的开源社区 - HelloGitHub",
+    "url": "https://hellogithub.com",
+    "category": "category_1755950542663",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=hellogithub.com"
+  },
+  {
     "id": 1755959048133,
     "name": "NodeLoc",
     "description": "NodeLoc - 自由地讨论互联网资源",
@@ -413,5 +422,5 @@ export const siteStats = {
   totalSites: websiteData.length,
   totalCategories: categories.length,
   totalTags: [...new Set(websiteData.flatMap(site => site.tags || []))].length,
-  lastUpdated: "2025-08-23"
+  lastUpdated: "2025-08-24"
 };
