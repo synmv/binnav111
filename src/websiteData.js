@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/8/24 18:49:10
+// 网站数据 - 通过管理后台更新于 2025/8/24 19:08:12
 
 // 站点配置
 export const siteConfig = {
@@ -398,14 +398,14 @@ export const categories = [
   {
     "id": "category_1756032535750",
     "name": "消防相关",
-    "icon": "/assets/Xcode--Streamline-Svg-Logos.png",
+    "icon": "/assets/FxemojiFireengine.png",
     "special": false,
     "subcategories": []
   },
   {
     "id": "category_1751807929795",
     "name": "AI平台",
-    "icon": "/assets/ai.png",
+    "icon": "/assets/FontistoReddit.png",
     "special": false,
     "subcategories": [
       {
@@ -433,7 +433,7 @@ export const categories = [
   {
     "id": "dev_tools",
     "name": "开发工具",
-    "icon": "/assets/Xcode--Streamline-Svg-Logos.png",
+    "icon": "/assets/LogosPython.png",
     "special": false,
     "subcategories": []
   },
@@ -454,7 +454,21 @@ export const categories = [
   {
     "id": "category_1756024714746",
     "name": "图标库",
-    "icon": "/assets/dev_tools_icon.png",
+    "icon": "/assets/HugeiconsSvg02.png",
+    "special": false,
+    "subcategories": []
+  },
+  {
+    "id": "category_1756033344174",
+    "name": "影视网站",
+    "icon": "/assets/FontistoYoutubePlay.png",
+    "special": false,
+    "subcategories": []
+  },
+  {
+    "id": "category_1756033369845",
+    "name": "图书资料",
+    "icon": "/assets/education_icon.png",
     "special": false,
     "subcategories": []
   }
