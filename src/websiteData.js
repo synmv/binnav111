@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/8/24 21:03:52
+// 网站数据 - 通过管理后台更新于 2025/8/24 21:05:02
 
 // 站点配置
 export const siteConfig = {
@@ -474,6 +474,13 @@ export const categories = [
     "subcategories": []
   },
   {
+    "id": "category_1756033344174",
+    "name": "影视网站",
+    "icon": "/assets/FontistoYoutubePlay.png",
+    "special": false,
+    "subcategories": []
+  },
+  {
     "id": "category_1755950542663",
     "name": "论坛社区",
     "icon": "/assets/network_icon.png",
@@ -491,13 +498,6 @@ export const categories = [
     "id": "category_1756024714746",
     "name": "图标库",
     "icon": "/assets/HugeiconsSvg02.png",
-    "special": false,
-    "subcategories": []
-  },
-  {
-    "id": "category_1756033344174",
-    "name": "影视网站",
-    "icon": "/assets/FontistoYoutubePlay.png",
     "special": false,
     "subcategories": []
   },
