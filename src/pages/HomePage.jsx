@@ -256,7 +256,7 @@ function HomePage() {
 
                   
                   <a 
-                    href="https://github.com/your-username/binnav" 
+                    href="https://github.com/synmv/binnav111" 
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex items-center p-3 bg-gray-50 hover:bg-gray-100 rounded-lg transition-colors group"
