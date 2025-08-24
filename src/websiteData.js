@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/8/24 19:54:10
+// 网站数据 - 通过管理后台更新于 2025/8/24 21:03:09
 
 // 站点配置
 export const siteConfig = {
@@ -383,6 +383,42 @@ export const websiteData = [
     "category": "category_1756024714746",
     "tags": [],
     "icon": "https://icon.nbvil.com/favicon?url=icones.js.org"
+  },
+  {
+    "id": 1756040438666,
+    "name": "哔哩哔哩",
+    "description": "国内知名的视频弹幕网站，这里有最及时的动漫新番，最棒的ACG氛围，最有创意的Up主",
+    "url": "https://www.bilibili.com",
+    "category": "category_1756033344174",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=www.bilibili.com"
+  },
+  {
+    "id": 1756040471602,
+    "name": "Youtube",
+    "description": "全球最大的视频网站",
+    "url": "https://www.youtube.com",
+    "category": "category_1756033344174",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=www.youtube.com"
+  },
+  {
+    "id": 1756040539296,
+    "name": "樱桃8影视",
+    "description": "最新电影在线看,最新电影下载,免费高清电影网",
+    "url": "https://yt.jk.loc.cc/",
+    "category": "category_1756033344174",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=yt.jk.loc.cc"
+  },
+  {
+    "id": 1756040574259,
+    "name": "樱桃8影视2",
+    "description": "最新电影在线看,最新电影下载,免费高清电影网",
+    "url": "https://vn.llk.xx.kg/",
+    "category": "category_1756033344174",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=vn.llk.xx.kg"
   }
 ];
 
