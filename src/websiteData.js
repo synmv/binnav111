@@ -1,8 +1,8 @@
-// 网站数据 - 通过管理后台更新于 2025/8/24 23:37:15
+// 网站数据 - 通过管理后台更新于 2025/8/25 18:02:37
 
 // 站点配置
 export const siteConfig = {
-  "siteName": "Synapse's Bookmarks",
+  "siteName": "Synapse'Bookmarks",
   "siteTitle": "Synapse - 导航",
   "siteLogo": "/assets/logo.png",
   "siteDescription": "二进制导航页面，精选优质站点",
@@ -745,5 +745,5 @@ export const siteStats = {
   totalSites: websiteData.length,
   totalCategories: categories.length,
   totalTags: [...new Set(websiteData.flatMap(site => site.tags || []))].length,
-  lastUpdated: "2025-08-24"
+  lastUpdated: "2025-08-25"
 };
