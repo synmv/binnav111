@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/8/30 21:42:08
+// 网站数据 - 通过管理后台更新于 2025/8/30 21:46:46
 
 // 站点配置
 export const siteConfig = {
@@ -868,6 +868,33 @@ export const websiteData = [
     "category": "category_1756047882772",
     "tags": [],
     "icon": "https://icon.nbvil.com/favicon?url=awinds.alwaysdata.net"
+  },
+  {
+    "id": 1756561418453,
+    "name": "SMS-Activate",
+    "description": "",
+    "url": "https://sms-activate.guru/cn/freeNumbers#nnuumm",
+    "category": "category_1756047882772",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=sms-activate.guru"
+  },
+  {
+    "id": 1756561501942,
+    "name": "微测网WeTest-全球云服务监测平台",
+    "description": "",
+    "url": "https://www.wetest.vip/",
+    "category": "category_1756047882772",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=www.wetest.vip"
+  },
+  {
+    "id": 1756561604234,
+    "name": "临时邮箱-22.Do",
+    "description": "",
+    "url": "https://22.do/",
+    "category": "category_1756047882772",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=22.do"
   },
   {
     "id": 1756040438666,
