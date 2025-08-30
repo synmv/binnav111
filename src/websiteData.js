@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/8/30 21:35:57
+// 网站数据 - 通过管理后台更新于 2025/8/30 21:42:08
 
 // 站点配置
 export const siteConfig = {
@@ -843,6 +843,33 @@ export const websiteData = [
     "icon": "https://icon.nbvil.com/favicon?url=www.browserscan.net"
   },
   {
+    "id": 1756561153143,
+    "name": "短信接收SMS",
+    "description": "",
+    "url": "https://www.freereceivesms.com/",
+    "category": "category_1756047882772",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=www.freereceivesms.com"
+  },
+  {
+    "id": 1756561293027,
+    "name": "iii工具箱-好用的在线工具都在这里！",
+    "description": "",
+    "url": "https://tools.iii.cx/",
+    "category": "category_1756047882772",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=tools.iii.cx"
+  },
+  {
+    "id": 1756561326264,
+    "name": "蜜蜂工具 - IT Tools",
+    "description": "",
+    "url": "https://awinds.alwaysdata.net/",
+    "category": "category_1756047882772",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=awinds.alwaysdata.net"
+  },
+  {
     "id": 1756040438666,
     "name": "哔哩哔哩",
     "description": "国内知名的视频弹幕网站，这里有最及时的动漫新番，最棒的ACG氛围，最有创意的Up主",
@@ -958,6 +985,15 @@ export const websiteData = [
     "category": "category_1755950542663",
     "tags": [],
     "icon": "https://icon.nbvil.com/favicon?url=hacpai.com"
+  },
+  {
+    "id": 1756561034708,
+    "name": "恩山无线论坛",
+    "description": "",
+    "url": "https://www.right.com.cn/forum/",
+    "category": "category_1755950542663",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=www.right.com.cn"
   },
   {
     "id": 1755959048133,
