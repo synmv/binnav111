@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/8/30 17:56:38
+// 网站数据 - 通过管理后台更新于 2025/8/30 17:58:36
 
 // 站点配置
 export const siteConfig = {
@@ -84,6 +84,26 @@ export const websiteData = [
     "icon": "https://icon.nbvil.com/favicon?url=openstd.samr.gov.cn"
   },
   {
+    "id": 1756547796928,
+    "name": "国家标准信息公共服务平台",
+    "description": "全国标准信息公共服务平台是国家标准委标准信息中心具体承担建设的公益类标准信息公共服务平台，服务对象是政府机构、国内企事业单位和社会公众，目标是成为国家标准、国际标准、国外标准、行业标准、地方标准、企业标准和团体标准等标准化信息资源统一入口，为用户提供“一站式”服务。",
+    "url": "https://openstd.samr.gov.cn/bzgk/std/",
+    "category": "category_1756542941905",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=openstd.samr.gov.cn"
+  },
+  {
+    "id": 1756547229967,
+    "name": "合规网",
+    "description": "合规网创始于2010年，时值公众关注的“质量门”事件、环境灾难频发，健康安全事故和劳资纠纷不断，而法规要求则日趋严格。我们（合规网创始人）认为：履行企业社会责任，已关乎社会可持续发展的命脉，而能够主导这一时代命脉的，是中国成千上万的实力企业，他们需要并正寻求切实而高效的合规管理工具，以确保履行遵守法规和行为准则的承诺。",
+    "url": "https://csrcare.com/Standard",
+    "category": "category_1756542941905",
+    "tags": [
+      "标准，法规"
+    ],
+    "icon": "/assets/logo.png"
+  },
+  {
     "id": 1755967000002,
     "name": "GB 7956 系列",
     "description": "消防车性能与测试方法标准，涵盖各类消防车技术规范。",
@@ -97,19 +117,6 @@ export const websiteData = [
     "icon": "https://icon.nbvil.com/favicon?url=openstd.samr.gov.cn"
   },
   {
-    "id": 1755967000017,
-    "name": "日本消防厅宣传与培训视频",
-    "description": "含救灾演练、消防车辆展示、防灾宣传等。",
-    "url": "https://www.fdma.go.jp",
-    "category": "category_1756542941905",
-    "tags": [
-      "视频",
-      "培训",
-      "日本"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=www.fdma.go.jp"
-  },
-  {
     "id": 1755967000016,
     "name": "YouTube 消防教学合集",
     "description": "涵盖排烟机、防火设备、灭火实操演示等视频。",
@@ -121,6 +128,19 @@ export const websiteData = [
       "实操"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=www.youtube.com"
+  },
+  {
+    "id": 1755967000017,
+    "name": "日本消防厅宣传与培训视频",
+    "description": "含救灾演练、消防车辆展示、防灾宣传等。",
+    "url": "https://www.fdma.go.jp",
+    "category": "category_1756542941905",
+    "tags": [
+      "视频",
+      "培训",
+      "日本"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=www.fdma.go.jp"
   },
   {
     "id": 1755967000015,
@@ -286,26 +306,6 @@ export const websiteData = [
     "category": "category_1756542941905",
     "tags": [],
     "icon": "/assets/logo.png"
-  },
-  {
-    "id": 1756547229967,
-    "name": "合规网",
-    "description": "合规网创始于2010年，时值公众关注的“质量门”事件、环境灾难频发，健康安全事故和劳资纠纷不断，而法规要求则日趋严格。我们（合规网创始人）认为：履行企业社会责任，已关乎社会可持续发展的命脉，而能够主导这一时代命脉的，是中国成千上万的实力企业，他们需要并正寻求切实而高效的合规管理工具，以确保履行遵守法规和行为准则的承诺。",
-    "url": "https://csrcare.com/Standard",
-    "category": "category_1756542941905",
-    "tags": [
-      "标准，法规"
-    ],
-    "icon": "/assets/logo.png"
-  },
-  {
-    "id": 1756547796928,
-    "name": "国家标准信息公共服务平台",
-    "description": "全国标准信息公共服务平台是国家标准委标准信息中心具体承担建设的公益类标准信息公共服务平台，服务对象是政府机构、国内企事业单位和社会公众，目标是成为国家标准、国际标准、国外标准、行业标准、地方标准、企业标准和团体标准等标准化信息资源统一入口，为用户提供“一站式”服务。",
-    "url": "https://openstd.samr.gov.cn/bzgk/std/",
-    "category": "category_1756542941905",
-    "tags": [],
-    "icon": "https://icon.nbvil.com/favicon?url=openstd.samr.gov.cn"
   },
   {
     "id": 1755963000002,
