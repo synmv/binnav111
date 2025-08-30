@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/8/30 13:08:54
+// 网站数据 - 通过管理后台更新于 2025/8/30 16:15:42
 
 // 站点配置
 export const siteConfig = {
@@ -12,312 +12,6 @@ export const siteConfig = {
 };
 
 export const websiteData = [
-  {
-    "id": 1755967000001,
-    "name": "GB/T 6244-1986",
-    "description": "消防车通用底盘试验方法国家标准。",
-    "url": "https://std.samr.gov.cn",
-    "category": "resource",
-    "tags": ["标准", "消防车", "底盘"],
-    "icon": "https://icon.nbvil.com/favicon?url=std.samr.gov.cn"
-  },
-  {
-    "id": 1755967000002,
-    "name": "GB 7956 系列",
-    "description": "消防车性能与测试方法标准，涵盖各类消防车技术规范。",
-    "url": "https://www.mem.gov.cn",
-    "category": "resource",
-    "tags": ["标准", "性能", "消防车"],
-    "icon": "https://icon.nbvil.com/favicon?url=mem.gov.cn"
-  },
-  {
-    "id": 1755967000003,
-    "name": "GB 13954-2009",
-    "description": "警示灯具标准，适用于消防车、救护车、警车。",
-    "url": "https://std.samr.gov.cn",
-    "category": "resource",
-    "tags": ["标准", "灯具", "安全"],
-    "icon": "https://icon.nbvil.com/favicon?url=std.samr.gov.cn"
-  },
-  {
-    "id": 1755967000004,
-    "name": "GB 51054-2014",
-    "description": "城市消防站设计规范。",
-    "url": "https://csrcare.com/master%20law/%E6%A0%87%E5%87%86/%E5%9B%BD%E5%AE%B6%E6%A0%87%E5%87%86GGB/GB/GB51054-2014%E5%9F%8E%E5%B8%82%E6%B6%88%E9%98%B2%E7%AB%99%E8%AE%BE%E8%AE%A1%E8%A7%84%E8%8C%83.pdf",
-    "category": "resource",
-    "tags": ["标准", "设计规范", "消防站"],
-    "icon": "https://icon.nbvil.com/favicon?url=csrcare.com"
-  },
-  {
-    "id": 1755967000005,
-    "name": "GB 55036-2022",
-    "description": "消防设施通用规范（工程建设强制性规范）。",
-    "url": "https://gxjsxf.com/upload/down/202404/29/202404291559304371.pdf",
-    "category": "resource",
-    "tags": ["标准", "设施", "消防车"],
-    "icon": "https://icon.nbvil.com/favicon?url=gxjsxf.com"
-  },
-  {
-    "id": 1755967000006,
-    "name": "GB 50016-2014",
-    "description": "建筑设计防火规范，涉及消防车道设计。",
-    "url": "https://www.jianbiaoku.com/webarbs/book/56160/3661545.shtml",
-    "category": "resource",
-    "tags": ["标准", "建筑防火", "消防车道"],
-    "icon": "https://icon.nbvil.com/favicon?url=jianbiaoku.com"
-  },
-  {
-    "id": 1755967000007,
-    "name": "GB 7258-XXXX",
-    "description": "机动车运行安全技术条件，对消防车外廓和性能有规定。",
-    "url": "https://www.mot.gov.cn/yijianzhengji/201603/P020160331380657886736.pdf",
-    "category": "resource",
-    "tags": ["标准", "机动车", "安全"],
-    "icon": "https://icon.nbvil.com/favicon?url=mot.gov.cn"
-  },
-  {
-    "id": 1755967000008,
-    "name": "消防产品监督管理规定",
-    "description": "公安部令第122号，要求消防产品必须符合标准。",
-    "url": "https://www.caac.gov.cn/HDJL/YJZJ/202404/P020240401413400513477.docx",
-    "category": "resource",
-    "tags": ["政策", "消防产品", "管理规定"],
-    "icon": "https://icon.nbvil.com/favicon?url=caac.gov.cn"
-  },
-  {
-    "id": 1755967000009,
-    "name": "《器材消防车》手册",
-    "description": "涵盖液压原理、维护、器材清单等。",
-    "url": "https://www.mem.gov.cn/gk/zfxxgkpt/fdzdgknr/202112/P020211222584424640711.pdf",
-    "category": "resource",
-    "tags": ["手册", "消防车", "操作"],
-    "icon": "https://icon.nbvil.com/favicon?url=mem.gov.cn"
-  },
-  {
-    "id": 1755967000010,
-    "name": "《化学救援消防车》手册",
-    "description": "涵盖配置规范、液压与电气系统、操作要求。",
-    "url": "https://www.mem.gov.cn/gk/zfxxgkpt/fdzdgknr/202112/W020211224422387401046.pdf",
-    "category": "resource",
-    "tags": ["手册", "化学救援", "消防车"],
-    "icon": "https://icon.nbvil.com/favicon?url=mem.gov.cn"
-  },
-  {
-    "id": 1755967000011,
-    "name": "《抢险救援消防车 技术规格》",
-    "description": "符合 GB7956 标准的技术规格说明。",
-    "url": "https://www.beijingfire.com/ueditor/php/upload/file/20211213/1639378303552140.pdf",
-    "category": "resource",
-    "tags": ["手册", "抢险救援", "消防车"],
-    "icon": "https://icon.nbvil.com/favicon?url=beijingfire.com"
-  },
-  {
-    "id": 1755967000012,
-    "name": "深度学习增强消防员态势感知",
-    "description": "使用 CNN/Mask R-CNN/Q-learning/AR 提升环境认知。",
-    "url": "https://arxiv.org/abs/2107.11043",
-    "category": "resource",
-    "tags": ["论文", "深度学习", "AR"],
-    "icon": "https://icon.nbvil.com/favicon?url=arxiv.org"
-  },
-  {
-    "id": 1755967000013,
-    "name": "嵌入式DL + AR消防辅助系统",
-    "description": "实时场景分析 + AR 导航。",
-    "url": "https://arxiv.org/abs/2009.10679",
-    "category": "resource",
-    "tags": ["论文", "嵌入式", "AR"],
-    "icon": "https://icon.nbvil.com/favicon?url=arxiv.org"
-  },
-  {
-    "id": 1755967000014,
-    "name": "自主消防机器人（城市高层）",
-    "description": "火源识别、导航与灭火机器人设计。",
-    "url": "https://arxiv.org/abs/2107.03582",
-    "category": "resource",
-    "tags": ["论文", "机器人", "救援"],
-    "icon": "https://icon.nbvil.com/favicon?url=arxiv.org"
-  },
-  {
-    "id": 1755967000015,
-    "name": "VR消防机器人动作模拟",
-    "description": "VR 环境中的消防机器人运动学仿真。",
-    "url": "https://arxiv.org/abs/0804.3882",
-    "category": "resource",
-    "tags": ["论文", "VR", "机器人"],
-    "icon": "https://icon.nbvil.com/favicon?url=arxiv.org"
-  },
-  {
-    "id": 1755967000016,
-    "name": "YouTube 消防教学合集",
-    "description": "涵盖排烟机、防火设备、灭火实操演示等视频。",
-    "url": "https://www.youtube.com/playlist?list=PLgBJRHxiJ7QS7SNnwtvFQQMQiQc9V60Jj",
-    "category": "resource",
-    "tags": ["视频", "教学", "实操"],
-    "icon": "https://icon.nbvil.com/favicon?url=youtube.com"
-  },
-  {
-    "id": 1755967000017,
-    "name": "日本消防厅宣传与培训视频",
-    "description": "含救灾演练、消防车辆展示、防灾宣传等。",
-    "url": "https://www.fdma.go.jp",
-    "category": "resource",
-    "tags": ["视频", "培训", "日本"],
-    "icon": "https://icon.nbvil.com/favicon?url=fdma.go.jp"
-  },
-  {
-    "id": 1755966000001,
-    "name": "卡车之家 - 消防车频道",
-    "description": "提供消防车新闻、报价、图片、经销商、论坛等信息。",
-    "url": "https://www.360che.com/xfc/",
-    "category": "platform",
-    "tags": ["行业资讯", "报价", "社区"],
-    "icon": "https://icon.nbvil.com/favicon?url=360che.com"
-  },
-  {
-    "id": 1755966000002,
-    "name": "消防产品信息网",
-    "description": "官方消防产品认证信息查询平台，提供认证产品目录及公告。",
-    "url": "http://www.cccf.com.cn",
-    "category": "platform",
-    "tags": ["认证", "产品查询", "行业平台"],
-    "icon": "https://icon.nbvil.com/favicon?url=cccf.com.cn"
-  },
-  {
-    "id": 1755966000003,
-    "name": "中国消防协会官网",
-    "description": "行业协会网站，发布行业新闻、学术活动、标准解读等。",
-    "url": "http://www.cfpa.cn",
-    "category": "platform",
-    "tags": ["协会", "学术", "行业资讯"],
-    "icon": "https://icon.nbvil.com/favicon?url=cfpa.cn"
-  },
-  {
-    "id": 1755966000004,
-    "name": "应急管理部消防装备栏目",
-    "description": "提供消防装备技术规范、政策文件及标准下载。",
-    "url": "https://www.mem.gov.cn",
-    "category": "platform",
-    "tags": ["政策", "标准", "装备"],
-    "icon": "https://icon.nbvil.com/favicon?url=mem.gov.cn"
-  },
-  {
-    "id": 1755965000001,
-    "name": "三一集团消防车",
-    "description": "提供平台消防车、重型抢险救援车，具备吊重、发电、照明等功能。",
-    "url": "https://www.sanyglobal.com/cn/product/fire-fighting_%26_rescue/platform_fire_truck/",
-    "category": "domestic",
-    "tags": ["消防车", "国产品牌", "平台车"],
-    "icon": "https://icon.nbvil.com/favicon?url=sanyglobal.com"
-  },
-  {
-    "id": 1755965000002,
-    "name": "徐工集团 DG101",
-    "description": "全球最高（101米）登高平台消防车，适合城市超高层火灾救援。",
-    "url": "https://www.xcmg.com/product/pro-detail-125155.htm",
-    "category": "domestic",
-    "tags": ["消防车", "登高平台", "国产品牌"],
-    "icon": "https://icon.nbvil.com/favicon?url=xcmg.com"
-  },
-  {
-    "id": 1755965000003,
-    "name": "青特集团消防车",
-    "description": "主营大流量泡沫消防车、水罐消防车，适合石化及城市任务。",
-    "url": "https://www.qingtegroup.com/product/sanpaizuodaliuliangpaomoshuiguanlianyongxiaofangche.htm",
-    "category": "domestic",
-    "tags": ["消防车", "泡沫车", "国产品牌"],
-    "icon": "https://icon.nbvil.com/favicon?url=qingtegroup.com"
-  },
-  {
-    "id": 1755965000004,
-    "name": "徐州海伦哲",
-    "description": "消防装备制造商，主营水罐泡沫车、登高喷射车、特种消防车等。",
-    "url": "https://www.xzhlz.com/product/xiao-fang-che-liang.jsp",
-    "category": "domestic",
-    "tags": ["消防车", "特种车", "国产品牌"],
-    "icon": "https://icon.nbvil.com/favicon?url=xzhlz.com"
-  },
-  {
-    "id": 1755965000005,
-    "name": "浩淼科技（明光浩淼）",
-    "description": "A股上市公司，主营灭火消防车、举高类消防车、罐式消防车等。",
-    "url": "http://www.mgxf.com",
-    "category": "domestic",
-    "tags": ["消防车", "上市公司", "国产品牌"],
-    "icon": "https://icon.nbvil.com/favicon?url=mgxf.com"
-  },
-  {
-    "id": 1755965000006,
-    "name": "中国消防企业集团",
-    "description": "国内较早的消防车制造企业，产品覆盖专用消防车和装备。",
-    "url": "http://www.cfe.cn",
-    "category": "domestic",
-    "tags": ["消防车", "装备", "国产品牌"],
-    "icon": "https://icon.nbvil.com/favicon?url=cfe.cn"
-  },
-  {
-    "id": 1755965000007,
-    "name": "江铃晶马",
-    "description": "前身江西消防车辆厂，主营专用车及消防车。",
-    "url": "http://www.jmmc.com.cn",
-    "category": "domestic",
-    "tags": ["消防车", "专用车", "国产品牌"],
-    "icon": "https://icon.nbvil.com/favicon?url=jmmc.com.cn"
-  },
-  {
-    "id": 1755964000001,
-    "name": "梅赛德斯-奔驰 消防车",
-    "description": "提供多种消防车辆：水罐车、云梯车、森林消防车等。",
-    "url": "https://www.mercedes-benz-trucks.com/cn/zh/trucks/applications/fire-fighting.html",
-    "category": "international",
-    "tags": ["消防车", "国际品牌", "水罐车"],
-    "icon": "https://icon.nbvil.com/favicon?url=mercedes-benz-trucks.com"
-  },
-  {
-    "id": 1755964000002,
-    "name": "Scania 消防救援车",
-    "description": "提供水/泡沫车、转台云梯、工业消防车，强调可靠性与可持续设计。",
-    "url": "https://www.scania.com/cn/zh_cn/home/products/trucks/transport-operations/fire-and-rescue.html",
-    "category": "international",
-    "tags": ["消防车", "救援车", "国际品牌"],
-    "icon": "https://icon.nbvil.com/favicon?url=scania.com"
-  },
-  {
-    "id": 1755964000003,
-    "name": "Oshkosh 豪士科",
-    "description": "美国制造商，主打高层供水消防车、泡沫消防车、多功能主战车等。",
-    "url": "https://www.oshkoshcorp.cn/index.php?c=products&column_id=130&m=Firemendetail",
-    "category": "international",
-    "tags": ["消防车", "工程车", "美国"],
-    "icon": "https://icon.nbvil.com/favicon?url=oshkoshcorp.cn"
-  },
-  {
-    "id": 1755964000004,
-    "name": "MORITA 森田",
-    "description": "日本企业，产品包括云梯车、登高平台车、化学消防车、水罐车等。",
-    "url": "https://www.morita119.com/cn/business/fire_trucks/",
-    "category": "international",
-    "tags": ["消防车", "日本", "国际品牌"],
-    "icon": "https://icon.nbvil.com/favicon?url=morita119.com"
-  },
-  {
-    "id": 1755964000005,
-    "name": "Rosenbauer 罗森鲍尔",
-    "description": "奥地利知名消防装备制造商，产品覆盖城市消防车、机场消防车、工业消防车。",
-    "url": "https://www.rosenbauer.com",
-    "category": "international",
-    "tags": ["消防车", "机场消防车", "欧洲品牌"],
-    "icon": "https://icon.nbvil.com/favicon?url=rosenbauer.com"
-  },
-  {
-    "id": 1755964000006,
-    "name": "Magirus 马基路斯",
-    "description": "德国著名消防车制造商，提供登高平台车、水罐车、云梯车。",
-    "url": "https://www.magirusgroup.com",
-    "category": "international",
-    "tags": ["消防车", "德国", "云梯车"],
-    "icon": "https://icon.nbvil.com/favicon?url=magirusgroup.com"
-  },
   {
     "id": 1751617129171,
     "name": "Cloudflare",
@@ -406,6 +100,512 @@ export const websiteData = [
     "category": "category_1756032535750",
     "tags": [],
     "icon": "https://icon.nbvil.com/favicon?url=www.17350.com"
+  },
+  {
+    "id": 1755966000004,
+    "name": "应急管理部消防装备栏目",
+    "description": "提供消防装备技术规范、政策文件及标准下载。",
+    "url": "https://www.mem.gov.cn",
+    "category": "category_1756530423009",
+    "tags": [
+      "政策",
+      "标准",
+      "装备"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=www.mem.gov.cn"
+  },
+  {
+    "id": 1755963000001,
+    "name": "国家消防救援局",
+    "description": "国家级消防管理与技术服务平台，包含产品检验、行业标准、政策法规等。",
+    "url": "https://www.119.gov.cn",
+    "category": "category_1756530423009",
+    "tags": [
+      "消防",
+      "标准",
+      "政策"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=www.119.gov.cn"
+  },
+  {
+    "id": 1755963000002,
+    "name": "应急管理部",
+    "description": "中国应急管理部官网，发布消防救援相关政策、新闻、标准。",
+    "url": "https://www.mem.gov.cn",
+    "category": "category_1756530423009",
+    "tags": [
+      "应急管理",
+      "消防政策"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=www.mem.gov.cn"
+  },
+  {
+    "id": 1755964000001,
+    "name": "梅赛德斯-奔驰 消防车",
+    "description": "提供多种消防车辆：水罐车、云梯车、森林消防车等。",
+    "url": "https://www.mercedes-benz-trucks.com/cn/zh/trucks/applications/fire-fighting.html",
+    "category": "category_1756530462648",
+    "tags": [
+      "消防车",
+      "国际品牌",
+      "水罐车"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=www.mercedes-benz-trucks.com"
+  },
+  {
+    "id": 1755964000002,
+    "name": "Scania 消防救援车",
+    "description": "提供水/泡沫车、转台云梯、工业消防车，强调可靠性与可持续设计。",
+    "url": "https://www.scania.com/cn/zh_cn/home/products/trucks/transport-operations/fire-and-rescue.html",
+    "category": "category_1756530462648",
+    "tags": [
+      "消防车",
+      "救援车",
+      "国际品牌"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=www.scania.com"
+  },
+  {
+    "id": 1755964000003,
+    "name": "Oshkosh 豪士科",
+    "description": "美国制造商，主打高层供水消防车、泡沫消防车、多功能主战车等。",
+    "url": "https://www.oshkoshcorp.cn/index.php?c=products&column_id=130&m=Firemendetail",
+    "category": "category_1756530462648",
+    "tags": [
+      "消防车",
+      "工程车",
+      "美国"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=oshkoshcorp.cn"
+  },
+  {
+    "id": 1755964000004,
+    "name": "MORITA 森田",
+    "description": "日本企业，产品包括云梯车、登高平台车、化学消防车、水罐车等。",
+    "url": "https://www.morita119.com/cn/business/fire_trucks/",
+    "category": "category_1756530462648",
+    "tags": [
+      "消防车",
+      "日本",
+      "国际品牌"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=www.morita119.com"
+  },
+  {
+    "id": 1755964000005,
+    "name": "Rosenbauer 罗森鲍尔",
+    "description": "奥地利知名消防装备制造商，产品覆盖城市消防车、机场消防车、工业消防车。",
+    "url": "https://www.rosenbauer.com",
+    "category": "category_1756530462648",
+    "tags": [
+      "消防车",
+      "机场消防车",
+      "欧洲品牌"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=www.rosenbauer.com"
+  },
+  {
+    "id": 1755964000006,
+    "name": "Magirus 马基路斯",
+    "description": "德国著名消防车制造商，提供登高平台车、水罐车、云梯车。",
+    "url": "https://www.magirusgroup.com",
+    "category": "category_1756530462648",
+    "tags": [
+      "消防车",
+      "德国",
+      "云梯车"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=www.magirusgroup.com"
+  },
+  {
+    "id": 1755965000001,
+    "name": "三一集团消防车",
+    "description": "提供平台消防车、重型抢险救援车，具备吊重、发电、照明等功能。",
+    "url": "https://www.sanyglobal.com/cn/product/fire-fighting_%26_rescue/platform_fire_truck/",
+    "category": "category_1756530478512",
+    "tags": [
+      "消防车",
+      "国产品牌",
+      "平台车"
+    ],
+    "icon": "/assets/logo.png"
+  },
+  {
+    "id": 1755965000002,
+    "name": "徐工集团 DG101",
+    "description": "全球最高（101米）登高平台消防车，适合城市超高层火灾救援。",
+    "url": "https://www.xcmg.com/product/pro-detail-125155.htm",
+    "category": "category_1756530478512",
+    "tags": [
+      "消防车",
+      "登高平台",
+      "国产品牌"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=www.xcmg.com"
+  },
+  {
+    "id": 1755965000003,
+    "name": "青特集团消防车",
+    "description": "主营大流量泡沫消防车、水罐消防车，适合石化及城市任务。",
+    "url": "https://www.qingtegroup.com/product/sanpaizuodaliuliangpaomoshuiguanlianyongxiaofangche.htm",
+    "category": "category_1756530478512",
+    "tags": [
+      "消防车",
+      "泡沫车",
+      "国产品牌"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=www.qingtegroup.com"
+  },
+  {
+    "id": 1755965000004,
+    "name": "徐州海伦哲",
+    "description": "消防装备制造商，主营水罐泡沫车、登高喷射车、特种消防车等。",
+    "url": "https://www.xzhlz.com/product/xiao-fang-che-liang.jsp",
+    "category": "category_1756530478512",
+    "tags": [
+      "消防车",
+      "特种车",
+      "国产品牌"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=www.xzhlz.com"
+  },
+  {
+    "id": 1755965000005,
+    "name": "浩淼科技（明光浩淼）",
+    "description": "A股上市公司，主营灭火消防车、举高类消防车、罐式消防车等。",
+    "url": "http://www.mgxf.com",
+    "category": "category_1756530478512",
+    "tags": [
+      "消防车",
+      "上市公司",
+      "国产品牌"
+    ],
+    "icon": "/assets/logo.png"
+  },
+  {
+    "id": 1755965000006,
+    "name": "中国消防企业集团",
+    "description": "国内较早的消防车制造企业，产品覆盖专用消防车和装备。",
+    "url": "http://www.cfe.cn",
+    "category": "category_1756530478512",
+    "tags": [
+      "消防车",
+      "装备",
+      "国产品牌"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=cfe.cn"
+  },
+  {
+    "id": 1755965000007,
+    "name": "江铃晶马",
+    "description": "前身江西消防车辆厂，主营专用车及消防车。",
+    "url": "http://www.jmmc.com.cn",
+    "category": "category_1756530478512",
+    "tags": [
+      "消防车",
+      "专用车",
+      "国产品牌"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=com.cn"
+  },
+  {
+    "id": 1755966000001,
+    "name": "卡车之家 - 消防车频道",
+    "description": "提供消防车新闻、报价、图片、经销商、论坛等信息。",
+    "url": "https://www.360che.com/xfc/",
+    "category": "category_1756530499321",
+    "tags": [
+      "行业资讯",
+      "报价",
+      "社区"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=360che.com"
+  },
+  {
+    "id": 1755966000002,
+    "name": "消防产品信息网",
+    "description": "官方消防产品认证信息查询平台，提供认证产品目录及公告。",
+    "url": "http://www.cccf.com.cn",
+    "category": "category_1756530499321",
+    "tags": [
+      "认证",
+      "产品查询",
+      "行业平台"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=com.cn"
+  },
+  {
+    "id": 1755963000003,
+    "name": "中国消防协会",
+    "description": "行业性学术团体，组织消防技术交流、学术会议、期刊出版。",
+    "url": "http://www.cfpa.cn",
+    "category": "category_1756530499321",
+    "tags": [
+      "协会",
+      "学术交流",
+      "行业标准"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=www.cfpa.cn"
+  },
+  {
+    "id": 1755963000004,
+    "name": "中国消防产品信息网",
+    "description": "官方消防产品认证信息查询平台，提供认证产品目录及公告。",
+    "url": "http://www.cccf.com.cn",
+    "category": "category_1756530499321",
+    "tags": [
+      "消防产品",
+      "认证",
+      "标准"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=com.cn"
+  },
+  {
+    "id": 1755963000005,
+    "name": "国家标准化管理委员会",
+    "description": "国家标准发布平台，可查询消防车及消防装备相关国家标准。",
+    "url": "http://www.sac.gov.cn",
+    "category": "category_1756530499321",
+    "tags": [
+      "标准",
+      "法规",
+      "消防"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=gov.cn"
+  },
+  {
+    "id": 1755967000001,
+    "name": "GB/T 6244-1986",
+    "description": "消防车通用底盘试验方法国家标准。",
+    "url": "https://std.samr.gov.cn",
+    "category": "category_1756530525104",
+    "tags": [
+      "标准",
+      "消防车",
+      "底盘"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=gov.cn"
+  },
+  {
+    "id": 1755967000002,
+    "name": "GB 7956 系列",
+    "description": "消防车性能与测试方法标准，涵盖各类消防车技术规范。",
+    "url": "https://www.mem.gov.cn",
+    "category": "category_1756530525104",
+    "tags": [
+      "标准",
+      "性能",
+      "消防车"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=www.mem.gov.cn"
+  },
+  {
+    "id": 1755967000003,
+    "name": "GB 13954-2009",
+    "description": "警示灯具标准，适用于消防车、救护车、警车。",
+    "url": "https://std.samr.gov.cn",
+    "category": "category_1756530525104",
+    "tags": [
+      "标准",
+      "灯具",
+      "安全"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=gov.cn"
+  },
+  {
+    "id": 1755967000004,
+    "name": "GB 51054-2014",
+    "description": "城市消防站设计规范。",
+    "url": "https://csrcare.com/master%20law/%E6%A0%87%E5%87%86/%E5%9B%BD%E5%AE%B6%E6%A0%87%E5%87%86GGB/GB/GB51054-2014%E5%9F%8E%E5%B8%82%E6%B6%88%E9%98%B2%E7%AB%99%E8%AE%BE%E8%AE%A1%E8%A7%84%E8%8C%83.pdf",
+    "category": "category_1756530525104",
+    "tags": [
+      "标准",
+      "设计规范",
+      "消防站"
+    ],
+    "icon": "/assets/logo.png"
+  },
+  {
+    "id": 1755967000005,
+    "name": "GB 55036-2022",
+    "description": "消防设施通用规范（工程建设强制性规范）。",
+    "url": "https://gxjsxf.com/upload/down/202404/29/202404291559304371.pdf",
+    "category": "category_1756530525104",
+    "tags": [
+      "标准",
+      "设施",
+      "消防车"
+    ],
+    "icon": "/assets/logo.png"
+  },
+  {
+    "id": 1755967000006,
+    "name": "GB 50016-2014",
+    "description": "建筑设计防火规范，涉及消防车道设计。",
+    "url": "https://www.jianbiaoku.com/webarbs/book/56160/3661545.shtml",
+    "category": "category_1756530525104",
+    "tags": [
+      "标准",
+      "建筑防火",
+      "消防车道"
+    ],
+    "icon": "/assets/logo.png"
+  },
+  {
+    "id": 1755967000007,
+    "name": "GB 7258-XXXX",
+    "description": "机动车运行安全技术条件，对消防车外廓和性能有规定。",
+    "url": "https://www.mot.gov.cn/yijianzhengji/201603/P020160331380657886736.pdf",
+    "category": "category_1756530525104",
+    "tags": [
+      "标准",
+      "机动车",
+      "安全"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=www.mot.gov.cn"
+  },
+  {
+    "id": 1755967000008,
+    "name": "消防产品监督管理规定",
+    "description": "公安部令第122号，要求消防产品必须符合标准。",
+    "url": "https://www.caac.gov.cn/HDJL/YJZJ/202404/P020240401413400513477.docx",
+    "category": "category_1756530525104",
+    "tags": [
+      "政策",
+      "消防产品",
+      "管理规定"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=gov.cn"
+  },
+  {
+    "id": 1755967000009,
+    "name": "《器材消防车》手册",
+    "description": "涵盖液压原理、维护、器材清单等。",
+    "url": "https://www.mem.gov.cn/gk/zfxxgkpt/fdzdgknr/202112/P020211222584424640711.pdf",
+    "category": "category_1756530525104",
+    "tags": [
+      "手册",
+      "消防车",
+      "操作"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=www.mem.gov.cn"
+  },
+  {
+    "id": 1755967000010,
+    "name": "《化学救援消防车》手册",
+    "description": "涵盖配置规范、液压与电气系统、操作要求。",
+    "url": "https://www.mem.gov.cn/gk/zfxxgkpt/fdzdgknr/202112/W020211224422387401046.pdf",
+    "category": "category_1756530525104",
+    "tags": [
+      "手册",
+      "化学救援",
+      "消防车"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=www.mem.gov.cn"
+  },
+  {
+    "id": 1755967000011,
+    "name": "《抢险救援消防车 技术规格》",
+    "description": "符合 GB7956 标准的技术规格说明。",
+    "url": "https://www.beijingfire.com/ueditor/php/upload/file/20211213/1639378303552140.pdf",
+    "category": "category_1756530525104",
+    "tags": [
+      "手册",
+      "抢险救援",
+      "消防车"
+    ],
+    "icon": "/assets/logo.png"
+  },
+  {
+    "id": 1755967000012,
+    "name": "深度学习增强消防员态势感知",
+    "description": "使用 CNN/Mask R-CNN/Q-learning/AR 提升环境认知。",
+    "url": "https://arxiv.org/abs/2107.11043",
+    "category": "category_1756530525104",
+    "tags": [
+      "论文",
+      "深度学习",
+      "AR"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=arxiv.org"
+  },
+  {
+    "id": 1755967000013,
+    "name": "嵌入式DL + AR消防辅助系统",
+    "description": "实时场景分析 + AR 导航。",
+    "url": "https://arxiv.org/abs/2009.10679",
+    "category": "category_1756530525104",
+    "tags": [
+      "论文",
+      "嵌入式",
+      "AR"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=arxiv.org"
+  },
+  {
+    "id": 1755967000014,
+    "name": "自主消防机器人（城市高层）",
+    "description": "火源识别、导航与灭火机器人设计。",
+    "url": "https://arxiv.org/abs/2107.03582",
+    "category": "category_1756530525104",
+    "tags": [
+      "论文",
+      "机器人",
+      "救援"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=arxiv.org"
+  },
+  {
+    "id": 1755967000015,
+    "name": "VR消防机器人动作模拟",
+    "description": "VR 环境中的消防机器人运动学仿真。",
+    "url": "https://arxiv.org/abs/0804.3882",
+    "category": "category_1756530525104",
+    "tags": [
+      "论文",
+      "VR",
+      "机器人"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=arxiv.org"
+  },
+  {
+    "id": 1755967000016,
+    "name": "YouTube 消防教学合集",
+    "description": "涵盖排烟机、防火设备、灭火实操演示等视频。",
+    "url": "https://www.youtube.com/playlist?list=PLgBJRHxiJ7QS7SNnwtvFQQMQiQc9V60Jj",
+    "category": "category_1756530525104",
+    "tags": [
+      "视频",
+      "教学",
+      "实操"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=www.youtube.com"
+  },
+  {
+    "id": 1755967000017,
+    "name": "日本消防厅宣传与培训视频",
+    "description": "含救灾演练、消防车辆展示、防灾宣传等。",
+    "url": "https://www.fdma.go.jp",
+    "category": "category_1756530525104",
+    "tags": [
+      "视频",
+      "培训",
+      "日本"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=go.jp"
+  },
+  {
+    "id": 1755966000003,
+    "name": "中国消防协会官网",
+    "description": "行业协会网站，发布行业新闻、学术活动、标准解读等。",
+    "url": "http://www.cfpa.cn",
+    "category": "category_1756530525104",
+    "tags": [
+      "协会",
+      "学术",
+      "行业资讯"
+    ],
+    "icon": "/assets/logo.png"
   },
   {
     "id": 1751811992820,
@@ -914,70 +1114,6 @@ export const websiteData = [
     "category": "category_1756033369845",
     "tags": [],
     "icon": "https://icon.nbvil.com/favicon?url=zh.annas-archive.org"
-  },
-  {
-    "id": 1755963000001,
-    "name": "国家消防救援局",
-    "description": "国家级消防管理与技术服务平台，包含产品检验、行业标准、政策法规等。",
-    "url": "https://www.119.gov.cn",
-    "category": "government",
-    "tags": [
-      "消防",
-      "标准",
-      "政策"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=www.119.gov.cn"
-  },
-  {
-    "id": 1755963000002,
-    "name": "应急管理部",
-    "description": "中国应急管理部官网，发布消防救援相关政策、新闻、标准。",
-    "url": "https://www.mem.gov.cn",
-    "category": "government",
-    "tags": [
-      "应急管理",
-      "消防政策"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=mem.gov.cn"
-  },
-  {
-    "id": 1755963000003,
-    "name": "中国消防协会",
-    "description": "行业性学术团体，组织消防技术交流、学术会议、期刊出版。",
-    "url": "http://www.cfpa.cn",
-    "category": "government",
-    "tags": [
-      "协会",
-      "学术交流",
-      "行业标准"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=cfpa.cn"
-  },
-  {
-    "id": 1755963000004,
-    "name": "中国消防产品信息网",
-    "description": "官方消防产品认证信息查询平台，提供认证产品目录及公告。",
-    "url": "http://www.cccf.com.cn",
-    "category": "government",
-    "tags": [
-      "消防产品",
-      "认证",
-      "标准"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=cccf.com.cn"
-  },
-  {
-    "id": 1755963000005,
-    "name": "国家标准化管理委员会",
-    "description": "国家标准发布平台，可查询消防车及消防装备相关国家标准。",
-    "url": "http://www.sac.gov.cn",
-    "category": "government",
-    "tags": [
-      "标准",
-      "法规",
-      "消防"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=sac.gov.cn"
   }
 ];
 
