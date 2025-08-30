@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/8/30 21:46:46
+// 网站数据 - 通过管理后台更新于 2025/8/30 21:50:59
 
 // 站点配置
 export const siteConfig = {
@@ -1243,6 +1243,24 @@ export const websiteData = [
     "category": "category_1756559545943",
     "tags": [],
     "icon": "https://icon.nbvil.com/favicon?url=www.runoob.com"
+  },
+  {
+    "id": 1756561675695,
+    "name": "简单教程",
+    "description": "简单教程，简单编程",
+    "url": "https://www.twle.cn/",
+    "category": "category_1756559545943",
+    "tags": [],
+    "icon": "/assets/logo.png"
+  },
+  {
+    "id": 1756561820259,
+    "name": "Type.fun趣打字",
+    "description": "",
+    "url": "https://www.type.fun/",
+    "category": "category_1756559545943",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=www.type.fun"
   }
 ];
 
