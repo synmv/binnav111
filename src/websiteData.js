@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/8/30 17:39:43
+// 网站数据 - 通过管理后台更新于 2025/8/30 17:43:12
 
 // 站点配置
 export const siteConfig = {
@@ -76,12 +76,12 @@ export const websiteData = [
   },
   {
     "id": 1756045687225,
-    "name": "国家标准全文公开",
+    "name": "国家标准全文公开系统",
     "description": "",
     "url": "https://openstd.samr.gov.cn/bzgk/gb/index",
     "category": "category_1756542941905",
     "tags": [],
-    "icon": "https://icon.nbvil.com/favicon?url=gov.cn"
+    "icon": "https://icon.nbvil.com/favicon?url=openstd.samr.gov.cn"
   },
   {
     "id": 1755967000002,
@@ -94,7 +94,7 @@ export const websiteData = [
       "性能",
       "消防车"
     ],
-    "icon": "https://icon.nbvil.com/favicon?url=gov.cn"
+    "icon": "https://icon.nbvil.com/favicon?url=openstd.samr.gov.cn"
   },
   {
     "id": 1755967000017,
@@ -185,7 +185,7 @@ export const websiteData = [
       "抢险救援",
       "消防车"
     ],
-    "icon": "https://icon.nbvil.com/favicon?url=gov.cn"
+    "icon": "https://icon.nbvil.com/favicon?url=openstd.samr.gov.cn"
   },
   {
     "id": 1755967000010,
@@ -263,7 +263,7 @@ export const websiteData = [
       "设计规范",
       "消防站"
     ],
-    "icon": "/assets/logo.png"
+    "icon": "https://icon.nbvil.com/favicon?url=csrcare.com"
   },
   {
     "id": 1755967000003,
@@ -956,7 +956,7 @@ export const websiteData = [
     "url": "http://www.iconfont.cn",
     "category": "category_1756024714746",
     "tags": [],
-    "icon": "https://icon.nbvil.com/favicon?url=iconfont.cn"
+    "icon": "https://icon.nbvil.com/favicon?url=www.iconfont.cn"
   },
   {
     "id": 1756024811191,
