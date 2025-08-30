@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/8/30 19:19:27
+// 网站数据 - 通过管理后台更新于 2025/8/30 19:24:16
 
 // 站点配置
 export const siteConfig = {
@@ -997,6 +997,15 @@ export const websiteData = [
     "icon": "https://icon.nbvil.com/favicon?url=hostloc.com"
   },
   {
+    "id": 1756552842344,
+    "name": "V2EX",
+    "description": "创意工作者们的社区",
+    "url": "https://www.v2ex.com",
+    "category": "category_1755955707372",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=www.v2ex.com"
+  },
+  {
     "id": 1756024781161,
     "name": "iconfont",
     "description": "阿里妈妈MUX倾力打造的矢量图标管理、交流平台",
@@ -1148,6 +1157,24 @@ export const websiteData = [
     "category": "category_1756033369845",
     "tags": [],
     "icon": "https://icon.nbvil.com/favicon?url=zh.annas-archive.org"
+  },
+  {
+    "id": 1756552965878,
+    "name": "IT-eBOOK",
+    "description": "IT类技术书籍PDF",
+    "url": "https://github.com/asyncfun/IT-eBOOK",
+    "category": "category_1756033369845",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=github.com"
+  },
+  {
+    "id": 1756553024782,
+    "name": "linux-command",
+    "description": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集",
+    "url": "https://git.io/linux",
+    "category": "category_1756033369845",
+    "tags": [],
+    "icon": "/assets/logo.png"
   }
 ];
 
