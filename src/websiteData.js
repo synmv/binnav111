@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/8/30 19:24:16
+// 网站数据 - 通过管理后台更新于 2025/8/30 19:55:09
 
 // 站点配置
 export const siteConfig = {
@@ -383,19 +383,6 @@ export const websiteData = [
       "标准"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=com.cn"
-  },
-  {
-    "id": 1755966000003,
-    "name": "中国消防协会官网",
-    "description": "行业协会网站，发布行业新闻、学术活动、标准解读等。",
-    "url": "http://www.cfpa.cn",
-    "category": "category_1756542988056",
-    "tags": [
-      "协会",
-      "学术",
-      "行业资讯"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=www.cfpa.cn"
   },
   {
     "id": 1755963000003,
