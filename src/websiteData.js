@@ -13,6 +13,51 @@ export const siteConfig = {
 
 export const websiteData = [
   {
+    "id": 1755963000001,
+    "name": "国家消防救援局",
+    "description": "国家级消防管理与技术服务平台，包含产品检验、行业标准、政策法规等。",
+    "url": "https://www.119.gov.cn",
+    "category": "government",
+    "tags": ["消防", "标准", "政策"],
+    "icon": "https://icon.nbvil.com/favicon?url=www.119.gov.cn"
+  },
+  {
+    "id": 1755963000002,
+    "name": "应急管理部",
+    "description": "中国应急管理部官网，发布消防救援相关政策、新闻、标准。",
+    "url": "https://www.mem.gov.cn",
+    "category": "government",
+    "tags": ["应急管理", "消防政策"],
+    "icon": "https://icon.nbvil.com/favicon?url=mem.gov.cn"
+  },
+  {
+    "id": 1755963000003,
+    "name": "中国消防协会",
+    "description": "行业性学术团体，组织消防技术交流、学术会议、期刊出版。",
+    "url": "http://www.cfpa.cn",
+    "category": "government",
+    "tags": ["协会", "学术交流", "行业标准"],
+    "icon": "https://icon.nbvil.com/favicon?url=cfpa.cn"
+  },
+  {
+    "id": 1755963000004,
+    "name": "中国消防产品信息网",
+    "description": "官方消防产品认证信息查询平台，提供认证产品目录及公告。",
+    "url": "http://www.cccf.com.cn",
+    "category": "government",
+    "tags": ["消防产品", "认证", "标准"],
+    "icon": "https://icon.nbvil.com/favicon?url=cccf.com.cn"
+  },
+  {
+    "id": 1755963000005,
+    "name": "国家标准化管理委员会",
+    "description": "国家标准发布平台，可查询消防车及消防装备相关国家标准。",
+    "url": "http://www.sac.gov.cn",
+    "category": "government",
+    "tags": ["标准", "法规", "消防"],
+    "icon": "https://icon.nbvil.com/favicon?url=sac.gov.cn"
+  },
+  {
     "id": 1751617129171,
     "name": "Cloudflare",
     "description": "Cloudflare以向客户提供网站安全管理、性能优化及相关的技术支持为主要业务。",
