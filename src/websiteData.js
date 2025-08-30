@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/8/30 16:28:29
+// 网站数据 - 通过管理后台更新于 2025/8/30 16:33:16
 
 // 站点配置
 export const siteConfig = {
@@ -356,15 +356,6 @@ export const websiteData = [
     "icon": "https://icon.nbvil.com/favicon?url=gov.cn"
   },
   {
-    "id": 1756045757675,
-    "name": "勾勒空间",
-    "description": "勾勒空间，消防规范",
-    "url": "www.hz-glkj.com",
-    "category": "category_1756530525104",
-    "tags": [],
-    "icon": "/assets/logo.png"
-  },
-  {
     "id": 1756045687225,
     "name": "国家标准全文公开",
     "description": "",
@@ -372,6 +363,15 @@ export const websiteData = [
     "category": "category_1756530525104",
     "tags": [],
     "icon": "https://icon.nbvil.com/favicon?url=gov.cn"
+  },
+  {
+    "id": 1756045757675,
+    "name": "勾勒空间",
+    "description": "勾勒空间，消防规范",
+    "url": "www.hz-glkj.com",
+    "category": "category_1756530525104",
+    "tags": [],
+    "icon": "/assets/logo.png"
   },
   {
     "id": 1755967000001,
@@ -1134,14 +1134,14 @@ export const categories = [
     "subcategories": [
       {
         "id": "category_1756530423009",
-        "name": "消防政策",
+        "name": "资料资源",
         "icon": "/assets/MaterialSymbolsFireTruckSharp.png",
         "special": false,
         "subcategories": []
       },
       {
         "id": "category_1756530462648",
-        "name": "消防国际",
+        "name": "消防政策",
         "icon": "/assets/StreamlinePlumpColorFirefighterTruck.png",
         "special": false,
         "subcategories": []
@@ -1155,14 +1155,14 @@ export const categories = [
       },
       {
         "id": "category_1756530499321",
-        "name": "行业平台",
+        "name": "消防国际",
         "icon": "/assets/StreamlineUltimateColorPublicServiceFirefighterTruck1.png",
         "special": false,
         "subcategories": []
       },
       {
         "id": "category_1756530525104",
-        "name": "资料资源",
+        "name": "行业平台",
         "icon": "/assets/StreamlinePlumpFirefighterTruck.png",
         "special": false,
         "subcategories": []
