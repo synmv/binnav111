@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/8/30 21:19:56
+// 网站数据 - 通过管理后台更新于 2025/8/30 21:35:57
 
 // 站点配置
 export const siteConfig = {
@@ -832,6 +832,15 @@ export const websiteData = [
     "category": "category_1756047882772",
     "tags": [],
     "icon": "https://icon.nbvil.com/favicon?url=whois.domaintools.com"
+  },
+  {
+    "id": 1756560839385,
+    "name": "BrowserScan - DNS 泄漏检测",
+    "description": "",
+    "url": "https://www.browserscan.net/zh/dns-leak",
+    "category": "category_1756047882772",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=www.browserscan.net"
   },
   {
     "id": 1756040438666,
