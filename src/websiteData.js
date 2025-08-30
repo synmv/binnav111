@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/8/30 17:58:36
+// 网站数据 - 通过管理后台更新于 2025/8/30 19:19:27
 
 // 站点配置
 export const siteConfig = {
@@ -935,6 +935,33 @@ export const websiteData = [
     "category": "category_1755950542663",
     "tags": [],
     "icon": "https://icon.nbvil.com/favicon?url=hellogithub.com"
+  },
+  {
+    "id": 1756552649962,
+    "name": "吾爱破解",
+    "description": "吾爱破解关注PC软件安全和移动安全领域，致力于软件安全与病毒分析的前沿",
+    "url": "https://www.52pojie.cn",
+    "category": "category_1755950542663",
+    "tags": [],
+    "icon": "/assets/logo.png"
+  },
+  {
+    "id": 1756552693528,
+    "name": "Node.js专业中文社区",
+    "description": "国内最专业的 Node.js 开源技术社区，致力于 Node.js 的技术研究",
+    "url": "https://cnodejs.org",
+    "category": "category_1755950542663",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=cnodejs.org"
+  },
+  {
+    "id": 1756552766664,
+    "name": "黑客派",
+    "description": "黑客派是程序员和设计师的聚集地，汇聚了严谨求实的工程师和富有创意的设计师",
+    "url": "https://hacpai.com",
+    "category": "category_1755950542663",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=hacpai.com"
   },
   {
     "id": 1755959048133,
