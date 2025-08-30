@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/8/30 19:55:09
+// 网站数据 - 通过管理后台更新于 2025/8/30 21:19:56
 
 // 站点配置
 export const siteConfig = {
@@ -1162,6 +1162,15 @@ export const websiteData = [
     "category": "category_1756033369845",
     "tags": [],
     "icon": "/assets/logo.png"
+  },
+  {
+    "id": 1756559584388,
+    "name": "菜鸟教程",
+    "description": "提供了编程的基础技术教程, 介绍了HTML、CSS、Javascript、Python，Java，Ruby，C，PHP , MySQL等各种编程语言的基础知识。 同时本站中也提供了大量的在线实例，通过实例，您可以更好的学习编程",
+    "url": "https://www.runoob.com",
+    "category": "category_1756559545943",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=www.runoob.com"
   }
 ];
 
@@ -1286,6 +1295,13 @@ export const categories = [
     "id": "category_1756033369845",
     "name": "图书资料",
     "icon": "/assets/education_icon.png",
+    "special": false,
+    "subcategories": []
+  },
+  {
+    "id": "category_1756559545943",
+    "name": "学无止境",
+    "icon": "/assets/FluentMdl2LearningTools.png",
     "special": false,
     "subcategories": []
   }
