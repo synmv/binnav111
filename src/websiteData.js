@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/8/30 21:50:59
+// 网站数据 - 通过管理后台更新于 2025/8/30 22:12:57
 
 // 站点配置
 export const siteConfig = {
@@ -73,6 +73,17 @@ export const websiteData = [
     "category": "recommended",
     "tags": [],
     "icon": "https://icon.nbvil.com/favicon?url=hub.docker.com"
+  },
+  {
+    "id": 1756563175285,
+    "name": "第一PPT",
+    "description": "科技PPT模板_科技感PPT模板_互联网PPT模板下载",
+    "url": "https://www.1ppt.com",
+    "category": "recommended",
+    "tags": [
+      "PPT"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=www.1ppt.com"
   },
   {
     "id": 1756045687225,
