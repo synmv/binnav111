@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/8/30 16:19:05
+// 网站数据 - 通过管理后台更新于 2025/8/30 16:22:43
 
 // 站点配置
 export const siteConfig = {
@@ -1135,32 +1135,37 @@ export const categories = [
       {
         "id": "category_1756530423009",
         "name": "消防政策",
-        "icon": "/assets/FxemojiFireengine.png",
-        "special": false
+        "icon": "/assets/MaterialSymbolsFireTruckSharp.png",
+        "special": false,
+        "subcategories": []
       },
       {
         "id": "category_1756530462648",
         "name": "消防国际",
-        "icon": "/assets/FxemojiFireengine.png",
-        "special": false
+        "icon": "/assets/StreamlinePlumpColorFirefighterTruck.png",
+        "special": false,
+        "subcategories": []
       },
       {
         "id": "category_1756530478512",
         "name": "消防国内",
-        "icon": "/assets/FxemojiFireengine.png",
-        "special": false
+        "icon": "/assets/PhFireTruck.png",
+        "special": false,
+        "subcategories": []
       },
       {
         "id": "category_1756530499321",
         "name": "行业平台",
-        "icon": "/assets/FxemojiFireengine.png",
-        "special": false
+        "icon": "/assets/StreamlineUltimateColorPublicServiceFirefighterTruck1.png",
+        "special": false,
+        "subcategories": []
       },
       {
         "id": "category_1756530525104",
         "name": "资料资源",
-        "icon": "/assets/FxemojiFireengine.png",
-        "special": false
+        "icon": "/assets/StreamlinePlumpFirefighterTruck.png",
+        "special": false,
+        "subcategories": []
       }
     ]
   },
