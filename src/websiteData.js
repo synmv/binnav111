@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/8/30 17:06:39
+// 网站数据 - 通过管理后台更新于 2025/8/30 17:08:02
 
 // 站点配置
 export const siteConfig = {
@@ -73,6 +73,28 @@ export const websiteData = [
     "category": "recommended",
     "tags": [],
     "icon": "https://icon.nbvil.com/favicon?url=hub.docker.com"
+  },
+  {
+    "id": 1756045687225,
+    "name": "国家标准全文公开",
+    "description": "",
+    "url": "https://openstd.samr.gov.cn/bzgk/gb/index",
+    "category": "category_1756542941905",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=gov.cn"
+  },
+  {
+    "id": 1755967000002,
+    "name": "GB 7956 系列",
+    "description": "消防车性能与测试方法标准，涵盖各类消防车技术规范。",
+    "url": "https://www.mem.gov.cn",
+    "category": "category_1756542941905",
+    "tags": [
+      "标准",
+      "性能",
+      "消防车"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=www.mem.gov.cn"
   },
   {
     "id": 1755967000017,
@@ -257,19 +279,6 @@ export const websiteData = [
     "icon": "https://icon.nbvil.com/favicon?url=gov.cn"
   },
   {
-    "id": 1755967000002,
-    "name": "GB 7956 系列",
-    "description": "消防车性能与测试方法标准，涵盖各类消防车技术规范。",
-    "url": "https://www.mem.gov.cn",
-    "category": "category_1756542941905",
-    "tags": [
-      "标准",
-      "性能",
-      "消防车"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=www.mem.gov.cn"
-  },
-  {
     "id": 1755967000001,
     "name": "GB/T 6244-1986",
     "description": "消防车通用底盘试验方法国家标准。",
@@ -290,15 +299,6 @@ export const websiteData = [
     "category": "category_1756542941905",
     "tags": [],
     "icon": "/assets/logo.png"
-  },
-  {
-    "id": 1756045687225,
-    "name": "国家标准全文公开",
-    "description": "",
-    "url": "https://openstd.samr.gov.cn/bzgk/gb/index",
-    "category": "category_1756542941905",
-    "tags": [],
-    "icon": "https://icon.nbvil.com/favicon?url=gov.cn"
   },
   {
     "id": 1755963000002,
