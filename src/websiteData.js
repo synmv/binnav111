@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/8/30 17:08:02
+// 网站数据 - 通过管理后台更新于 2025/8/30 17:35:03
 
 // 站点配置
 export const siteConfig = {
@@ -269,27 +269,14 @@ export const websiteData = [
     "id": 1755967000003,
     "name": "GB 13954-2009",
     "description": "警示灯具标准，适用于消防车、救护车、警车。",
-    "url": "https://std.samr.gov.cn",
+    "url": "https://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D7CD75D3A7E05397BE0A0AB82A",
     "category": "category_1756542941905",
     "tags": [
       "标准",
       "灯具",
       "安全"
     ],
-    "icon": "https://icon.nbvil.com/favicon?url=gov.cn"
-  },
-  {
-    "id": 1755967000001,
-    "name": "GB/T 6244-1986",
-    "description": "消防车通用底盘试验方法国家标准。",
-    "url": "https://std.samr.gov.cn",
-    "category": "category_1756542941905",
-    "tags": [
-      "标准",
-      "消防车",
-      "底盘"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=gov.cn"
+    "icon": "https://icon.nbvil.com/favicon?url=std.samr.gov.cn"
   },
   {
     "id": 1756045757675,
