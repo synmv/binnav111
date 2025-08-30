@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/8/30 17:35:03
+// 网站数据 - 通过管理后台更新于 2025/8/30 17:39:43
 
 // 站点配置
 export const siteConfig = {
@@ -87,14 +87,14 @@ export const websiteData = [
     "id": 1755967000002,
     "name": "GB 7956 系列",
     "description": "消防车性能与测试方法标准，涵盖各类消防车技术规范。",
-    "url": "https://www.mem.gov.cn",
+    "url": "https://openstd.samr.gov.cn/bzgk/gb/std_list?p.p1=0&p.p90=circulation_date&p.p91=desc&p.p2=7956",
     "category": "category_1756542941905",
     "tags": [
       "标准",
       "性能",
       "消防车"
     ],
-    "icon": "https://icon.nbvil.com/favicon?url=www.mem.gov.cn"
+    "icon": "https://icon.nbvil.com/favicon?url=gov.cn"
   },
   {
     "id": 1755967000017,
@@ -176,16 +176,16 @@ export const websiteData = [
   },
   {
     "id": 1755967000011,
-    "name": "《抢险救援消防车 技术规格》",
+    "name": "《抢险救援消防车》手册",
     "description": "符合 GB7956 标准的技术规格说明。",
-    "url": "https://www.beijingfire.com/ueditor/php/upload/file/20211213/1639378303552140.pdf",
+    "url": "https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=1CF7163FDB7C9EF9388EB5EF26047B40",
     "category": "category_1756542941905",
     "tags": [
       "手册",
       "抢险救援",
       "消防车"
     ],
-    "icon": "/assets/logo.png"
+    "icon": "https://icon.nbvil.com/favicon?url=gov.cn"
   },
   {
     "id": 1755967000010,
