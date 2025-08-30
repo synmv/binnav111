@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/8/30 16:33:16
+// 网站数据 - 通过管理后台更新于 2025/8/30 16:37:05
 
 // 站点配置
 export const siteConfig = {
@@ -73,44 +73,6 @@ export const websiteData = [
     "category": "recommended",
     "tags": [],
     "icon": "https://icon.nbvil.com/favicon?url=hub.docker.com"
-  },
-  {
-    "id": 1755966000004,
-    "name": "应急管理部消防装备栏目",
-    "description": "提供消防装备技术规范、政策文件及标准下载。",
-    "url": "https://www.mem.gov.cn",
-    "category": "category_1756530423009",
-    "tags": [
-      "政策",
-      "标准",
-      "装备"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=www.mem.gov.cn"
-  },
-  {
-    "id": 1755963000001,
-    "name": "国家消防救援局",
-    "description": "国家级消防管理与技术服务平台，包含产品检验、行业标准、政策法规等。",
-    "url": "https://www.119.gov.cn",
-    "category": "category_1756530423009",
-    "tags": [
-      "消防",
-      "标准",
-      "政策"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=www.119.gov.cn"
-  },
-  {
-    "id": 1755963000002,
-    "name": "应急管理部",
-    "description": "中国应急管理部官网，发布消防救援相关政策、新闻、标准。",
-    "url": "https://www.mem.gov.cn",
-    "category": "category_1756530423009",
-    "tags": [
-      "应急管理",
-      "消防政策"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=www.mem.gov.cn"
   },
   {
     "id": 1755964000001,
@@ -1114,6 +1076,44 @@ export const websiteData = [
     "category": "category_1756033369845",
     "tags": [],
     "icon": "https://icon.nbvil.com/favicon?url=zh.annas-archive.org"
+  },
+  {
+    "id": 1755966000004,
+    "name": "应急管理部消防装备栏目",
+    "description": "提供消防装备技术规范、政策文件及标准下载。",
+    "url": "https://www.mem.gov.cn",
+    "category": "category_1756530423009",
+    "tags": [
+      "政策",
+      "标准",
+      "装备"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=www.mem.gov.cn"
+  },
+  {
+    "id": 1755963000001,
+    "name": "国家消防救援局",
+    "description": "国家级消防管理与技术服务平台，包含产品检验、行业标准、政策法规等。",
+    "url": "https://www.119.gov.cn",
+    "category": "category_1756530423009",
+    "tags": [
+      "消防",
+      "标准",
+      "政策"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=www.119.gov.cn"
+  },
+  {
+    "id": 1755963000002,
+    "name": "应急管理部",
+    "description": "中国应急管理部官网，发布消防救援相关政策、新闻、标准。",
+    "url": "https://www.mem.gov.cn",
+    "category": "category_1756530423009",
+    "tags": [
+      "应急管理",
+      "消防政策"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=www.mem.gov.cn"
   }
 ];
 
@@ -1124,7 +1124,14 @@ export const categories = [
     "name": "常用推荐",
     "icon": "/assets/StreamlinePlumpColorAiEditRobot.svg",
     "special": false,
-    "subcategories": []
+    "subcategories": [
+      {
+        "id": "category_1756543021456",
+        "name": "消防国际",
+        "icon": "/assets/tools_icon.png",
+        "special": false
+      }
+    ]
   },
   {
     "id": "category_1756032535750",
@@ -1133,39 +1140,28 @@ export const categories = [
     "special": false,
     "subcategories": [
       {
-        "id": "category_1756530423009",
-        "name": "资料资源",
+        "id": "category_1756542941905",
+        "name": "消防资料",
         "icon": "/assets/MaterialSymbolsFireTruckSharp.png",
-        "special": false,
-        "subcategories": []
+        "special": false
       },
       {
-        "id": "category_1756530462648",
+        "id": "category_1756542962640",
         "name": "消防政策",
-        "icon": "/assets/StreamlinePlumpColorFirefighterTruck.png",
-        "special": false,
-        "subcategories": []
-      },
-      {
-        "id": "category_1756530478512",
-        "name": "消防国内",
         "icon": "/assets/PhFireTruck.png",
-        "special": false,
-        "subcategories": []
+        "special": false
       },
       {
-        "id": "category_1756530499321",
-        "name": "消防国际",
-        "icon": "/assets/StreamlineUltimateColorPublicServiceFirefighterTruck1.png",
-        "special": false,
-        "subcategories": []
+        "id": "category_1756542988056",
+        "name": "消防平台",
+        "icon": "/assets/StreamlinePlumpColorFirefighterTruck.png",
+        "special": false
       },
       {
-        "id": "category_1756530525104",
-        "name": "行业平台",
+        "id": "category_1756543007520",
+        "name": "消防国内",
         "icon": "/assets/StreamlinePlumpFirefighterTruck.png",
-        "special": false,
-        "subcategories": []
+        "special": false
       }
     ]
   },
