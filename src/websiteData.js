@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/8/30 16:23:16
+// 网站数据 - 通过管理后台更新于 2025/8/30 16:26:51
 
 // 站点配置
 export const siteConfig = {
@@ -73,33 +73,6 @@ export const websiteData = [
     "category": "recommended",
     "tags": [],
     "icon": "https://icon.nbvil.com/favicon?url=hub.docker.com"
-  },
-  {
-    "id": 1756045687225,
-    "name": "国家标准全文公开",
-    "description": "",
-    "url": "https://openstd.samr.gov.cn/bzgk/gb/index",
-    "category": "category_1756032535750",
-    "tags": [],
-    "icon": "https://icon.nbvil.com/favicon?url=gov.cn"
-  },
-  {
-    "id": 1756045757675,
-    "name": "勾勒空间",
-    "description": "勾勒空间，消防规范",
-    "url": "www.hz-glkj.com",
-    "category": "category_1756032535750",
-    "tags": [],
-    "icon": "/assets/logo.png"
-  },
-  {
-    "id": 1756045796634,
-    "name": "专汽网",
-    "description": "上专汽网，买放心车_专汽网专卖专用车",
-    "url": "https://www.17350.com",
-    "category": "category_1756032535750",
-    "tags": [],
-    "icon": "https://icon.nbvil.com/favicon?url=www.17350.com"
   },
   {
     "id": 1755966000004,
@@ -309,6 +282,15 @@ export const websiteData = [
     "icon": "https://icon.nbvil.com/favicon?url=com.cn"
   },
   {
+    "id": 1756045796634,
+    "name": "专汽网",
+    "description": "上专汽网，买放心车_专汽网专卖专用车",
+    "url": "https://www.17350.com",
+    "category": "category_1756530499321",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=www.17350.com"
+  },
+  {
     "id": 1755966000001,
     "name": "卡车之家 - 消防车频道",
     "description": "提供消防车新闻、报价、图片、经销商、论坛等信息。",
@@ -371,6 +353,24 @@ export const websiteData = [
       "法规",
       "消防"
     ],
+    "icon": "https://icon.nbvil.com/favicon?url=gov.cn"
+  },
+  {
+    "id": 1756045757675,
+    "name": "勾勒空间",
+    "description": "勾勒空间，消防规范",
+    "url": "www.hz-glkj.com",
+    "category": "category_1756530525104",
+    "tags": [],
+    "icon": "/assets/logo.png"
+  },
+  {
+    "id": 1756045687225,
+    "name": "国家标准全文公开",
+    "description": "",
+    "url": "https://openstd.samr.gov.cn/bzgk/gb/index",
+    "category": "category_1756530525104",
+    "tags": [],
     "icon": "https://icon.nbvil.com/favicon?url=gov.cn"
   },
   {
