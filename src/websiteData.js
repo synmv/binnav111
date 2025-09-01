@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/8/30 22:12:57
+// 网站数据 - 通过管理后台更新于 2025/9/1 17:10:44
 
 // 站点配置
 export const siteConfig = {
@@ -1405,6 +1405,13 @@ export const categories = [
     "icon": "/assets/FluentMdl2LearningTools.png",
     "special": false,
     "subcategories": []
+  },
+  {
+    "id": "category_1756717842012",
+    "name": "机械相关",
+    "icon": "/assets/GameIconsRobotGolem.png",
+    "special": false,
+    "subcategories": []
   }
 ];
 
@@ -1447,5 +1454,5 @@ export const siteStats = {
   totalSites: websiteData.length,
   totalCategories: categories.length,
   totalTags: [...new Set(websiteData.flatMap(site => site.tags || []))].length,
-  lastUpdated: "2025-08-30"
+  lastUpdated: "2025-09-01"
 };
