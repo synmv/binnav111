@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/9/1 17:10:44
+// 网站数据 - 通过管理后台更新于 2025/9/4 20:56:02
 
 // 站点配置
 export const siteConfig = {
@@ -1272,6 +1272,66 @@ export const websiteData = [
     "category": "category_1756559545943",
     "tags": [],
     "icon": "https://icon.nbvil.com/favicon?url=www.type.fun"
+  },
+  {
+    "id": 1756989719734,
+    "name": "nullno RobotHub",
+    "description": "机器人资源导航",
+    "url": "https://nullno.com/",
+    "category": "category_1756717842012",
+    "tags": [
+      "机器人"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=nullno.com"
+  },
+  {
+    "id": 1756989834364,
+    "name": "3D零件库",
+    "description": "3DSource零件库由上海新迪数字工程系统有限公司自主研发，是一款支持各大主流 CAD软件、标准覆盖齐全、零部件种类非常丰富的零件库，是国内领先的、用户规模非常庞大的3D零部件资源库。包含标准件、通用件和厂商件三维 CAD模型，汇聚国内外众多品牌生产厂商；集产品展示、产品搜索、产品选型、3D模型下载、采购询盘、快速设计工具、一键打开/插入、BOM自动写入等多种功能于一体",
+    "url": "https://lib.3dsource.cn/",
+    "category": "category_1756717842012",
+    "tags": [
+      "3D"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=lib.3dsource.cn"
+  },
+  {
+    "id": 1756989970703,
+    "name": "三维CAD库",
+    "description": "",
+    "url": "https://www.3dfindit.cn/",
+    "category": "category_1756717842012",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=www.3dfindit.cn"
+  },
+  {
+    "id": 1756990015073,
+    "name": "3Dfindit",
+    "description": "3D CAD、CAE 和 BIM 模型的可视化搜索引擎",
+    "url": "https://www.3dfindit.cn/zh-CN/",
+    "category": "category_1756717842012",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=www.3dfindit.cn"
+  },
+  {
+    "id": 1756990119301,
+    "name": "TraceParts",
+    "description": "CAD 库",
+    "url": "https://info.traceparts.com/zh/designers/engineers-designers/",
+    "category": "category_1756717842012",
+    "tags": [
+      "CAD"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=info.traceparts.com"
+  },
+  {
+    "id": 1756990559893,
+    "name": "sw自学网",
+    "description": "sw自学网 – solidworks自学网一站式solidworks教程综合学习交流平台",
+    "url": "https://www.swrjzxw.com/",
+    "category": "category_1756717842012",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=swrjzxw.com"
   }
 ];
 
@@ -1454,5 +1514,5 @@ export const siteStats = {
   totalSites: websiteData.length,
   totalCategories: categories.length,
   totalTags: [...new Set(websiteData.flatMap(site => site.tags || []))].length,
-  lastUpdated: "2025-09-01"
+  lastUpdated: "2025-09-04"
 };
