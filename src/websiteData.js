@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/9/4 20:56:02
+// 网站数据 - 通过管理后台更新于 2025/9/4 21:16:14
 
 // 站点配置
 export const siteConfig = {
@@ -1325,13 +1325,31 @@ export const websiteData = [
     "icon": "https://icon.nbvil.com/favicon?url=info.traceparts.com"
   },
   {
-    "id": 1756990559893,
+    "id": 1756990564286,
     "name": "sw自学网",
     "description": "sw自学网 – solidworks自学网一站式solidworks教程综合学习交流平台",
     "url": "https://www.swrjzxw.com/",
     "category": "category_1756717842012",
     "tags": [],
-    "icon": "https://icon.nbvil.com/favicon?url=swrjzxw.com"
+    "icon": "https://icon.nbvil.com/favicon?url=www.swrjzxw.com"
+  },
+  {
+    "id": 1756991753981,
+    "name": "CAD自学网",
+    "description": "solidworks工程图导出CAD与CAD导入solidworks教程 -",
+    "url": "https://www.cadzxw.com/42153.html",
+    "category": "category_1756717842012",
+    "tags": [],
+    "icon": "/assets/logo.png"
+  },
+  {
+    "id": 1756991772663,
+    "name": "CAD自学网",
+    "description": "CAD自学网 - CAD视频教程,CAD软件下载,免费的设计软件教程自学网",
+    "url": "https://www.cadzxw.com/",
+    "category": "category_1756717842012",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=www.cadzxw.com"
   }
 ];
 
