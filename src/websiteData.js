@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/9/4 21:16:14
+// 网站数据 - 通过管理后台更新于 2025/9/4 21:16:54
 
 // 站点配置
 export const siteConfig = {
@@ -1363,6 +1363,13 @@ export const categories = [
     "subcategories": []
   },
   {
+    "id": "category_1756717842012",
+    "name": "机械相关",
+    "icon": "/assets/GameIconsRobotGolem.png",
+    "special": false,
+    "subcategories": []
+  },
+  {
     "id": "category_1756032535750",
     "name": "消防相关",
     "icon": "/assets/FxemojiFireengine.png",
@@ -1481,13 +1488,6 @@ export const categories = [
     "id": "category_1756559545943",
     "name": "学无止境",
     "icon": "/assets/FluentMdl2LearningTools.png",
-    "special": false,
-    "subcategories": []
-  },
-  {
-    "id": "category_1756717842012",
-    "name": "机械相关",
-    "icon": "/assets/GameIconsRobotGolem.png",
     "special": false,
     "subcategories": []
   }
