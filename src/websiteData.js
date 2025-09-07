@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/9/4 21:16:54
+// 网站数据 - 通过管理后台更新于 2025/9/7 22:15:28
 
 // 站点配置
 export const siteConfig = {
@@ -84,6 +84,84 @@ export const websiteData = [
       "PPT"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=www.1ppt.com"
+  },
+  {
+    "id": 1756989719734,
+    "name": "nullno RobotHub",
+    "description": "机器人资源导航",
+    "url": "https://nullno.com/",
+    "category": "category_1756717842012",
+    "tags": [
+      "机器人"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=nullno.com"
+  },
+  {
+    "id": 1756989834364,
+    "name": "3D零件库",
+    "description": "3DSource零件库由上海新迪数字工程系统有限公司自主研发，是一款支持各大主流 CAD软件、标准覆盖齐全、零部件种类非常丰富的零件库，是国内领先的、用户规模非常庞大的3D零部件资源库。包含标准件、通用件和厂商件三维 CAD模型，汇聚国内外众多品牌生产厂商；集产品展示、产品搜索、产品选型、3D模型下载、采购询盘、快速设计工具、一键打开/插入、BOM自动写入等多种功能于一体",
+    "url": "https://lib.3dsource.cn/",
+    "category": "category_1756717842012",
+    "tags": [
+      "3D"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=lib.3dsource.cn"
+  },
+  {
+    "id": 1756989970703,
+    "name": "三维CAD库",
+    "description": "",
+    "url": "https://www.3dfindit.cn/",
+    "category": "category_1756717842012",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=www.3dfindit.cn"
+  },
+  {
+    "id": 1756990015073,
+    "name": "3Dfindit",
+    "description": "3D CAD、CAE 和 BIM 模型的可视化搜索引擎",
+    "url": "https://www.3dfindit.cn/zh-CN/",
+    "category": "category_1756717842012",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=www.3dfindit.cn"
+  },
+  {
+    "id": 1756990119301,
+    "name": "TraceParts",
+    "description": "CAD 库",
+    "url": "https://info.traceparts.com/zh/designers/engineers-designers/",
+    "category": "category_1756717842012",
+    "tags": [
+      "CAD"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=info.traceparts.com"
+  },
+  {
+    "id": 1756990564286,
+    "name": "sw自学网",
+    "description": "sw自学网 – solidworks自学网一站式solidworks教程综合学习交流平台",
+    "url": "https://www.swrjzxw.com/",
+    "category": "category_1756717842012",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=www.swrjzxw.com"
+  },
+  {
+    "id": 1756991753981,
+    "name": "CAD自学网",
+    "description": "solidworks工程图导出CAD与CAD导入solidworks教程 -",
+    "url": "https://www.cadzxw.com/42153.html",
+    "category": "category_1756717842012",
+    "tags": [],
+    "icon": "/assets/logo.png"
+  },
+  {
+    "id": 1756991772663,
+    "name": "CAD自学网",
+    "description": "CAD自学网 - CAD视频教程,CAD软件下载,免费的设计软件教程自学网",
+    "url": "https://www.cadzxw.com/",
+    "category": "category_1756717842012",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=www.cadzxw.com"
   },
   {
     "id": 1756045687225,
@@ -908,6 +986,15 @@ export const websiteData = [
     "icon": "https://icon.nbvil.com/favicon?url=22.do"
   },
   {
+    "id": 1757254525325,
+    "name": "Namsogen",
+    "description": "Random Credit Card Number Generator for Testing and Development - Namsogen",
+    "url": "https://namso-gen.com/",
+    "category": "category_1756047882772",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=namso-gen.com"
+  },
+  {
     "id": 1756040438666,
     "name": "哔哩哔哩",
     "description": "国内知名的视频弹幕网站，这里有最及时的动漫新番，最棒的ACG氛围，最有创意的Up主",
@@ -1272,84 +1359,6 @@ export const websiteData = [
     "category": "category_1756559545943",
     "tags": [],
     "icon": "https://icon.nbvil.com/favicon?url=www.type.fun"
-  },
-  {
-    "id": 1756989719734,
-    "name": "nullno RobotHub",
-    "description": "机器人资源导航",
-    "url": "https://nullno.com/",
-    "category": "category_1756717842012",
-    "tags": [
-      "机器人"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=nullno.com"
-  },
-  {
-    "id": 1756989834364,
-    "name": "3D零件库",
-    "description": "3DSource零件库由上海新迪数字工程系统有限公司自主研发，是一款支持各大主流 CAD软件、标准覆盖齐全、零部件种类非常丰富的零件库，是国内领先的、用户规模非常庞大的3D零部件资源库。包含标准件、通用件和厂商件三维 CAD模型，汇聚国内外众多品牌生产厂商；集产品展示、产品搜索、产品选型、3D模型下载、采购询盘、快速设计工具、一键打开/插入、BOM自动写入等多种功能于一体",
-    "url": "https://lib.3dsource.cn/",
-    "category": "category_1756717842012",
-    "tags": [
-      "3D"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=lib.3dsource.cn"
-  },
-  {
-    "id": 1756989970703,
-    "name": "三维CAD库",
-    "description": "",
-    "url": "https://www.3dfindit.cn/",
-    "category": "category_1756717842012",
-    "tags": [],
-    "icon": "https://icon.nbvil.com/favicon?url=www.3dfindit.cn"
-  },
-  {
-    "id": 1756990015073,
-    "name": "3Dfindit",
-    "description": "3D CAD、CAE 和 BIM 模型的可视化搜索引擎",
-    "url": "https://www.3dfindit.cn/zh-CN/",
-    "category": "category_1756717842012",
-    "tags": [],
-    "icon": "https://icon.nbvil.com/favicon?url=www.3dfindit.cn"
-  },
-  {
-    "id": 1756990119301,
-    "name": "TraceParts",
-    "description": "CAD 库",
-    "url": "https://info.traceparts.com/zh/designers/engineers-designers/",
-    "category": "category_1756717842012",
-    "tags": [
-      "CAD"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=info.traceparts.com"
-  },
-  {
-    "id": 1756990564286,
-    "name": "sw自学网",
-    "description": "sw自学网 – solidworks自学网一站式solidworks教程综合学习交流平台",
-    "url": "https://www.swrjzxw.com/",
-    "category": "category_1756717842012",
-    "tags": [],
-    "icon": "https://icon.nbvil.com/favicon?url=www.swrjzxw.com"
-  },
-  {
-    "id": 1756991753981,
-    "name": "CAD自学网",
-    "description": "solidworks工程图导出CAD与CAD导入solidworks教程 -",
-    "url": "https://www.cadzxw.com/42153.html",
-    "category": "category_1756717842012",
-    "tags": [],
-    "icon": "/assets/logo.png"
-  },
-  {
-    "id": 1756991772663,
-    "name": "CAD自学网",
-    "description": "CAD自学网 - CAD视频教程,CAD软件下载,免费的设计软件教程自学网",
-    "url": "https://www.cadzxw.com/",
-    "category": "category_1756717842012",
-    "tags": [],
-    "icon": "https://icon.nbvil.com/favicon?url=www.cadzxw.com"
   }
 ];
 
@@ -1532,5 +1541,5 @@ export const siteStats = {
   totalSites: websiteData.length,
   totalCategories: categories.length,
   totalTags: [...new Set(websiteData.flatMap(site => site.tags || []))].length,
-  lastUpdated: "2025-09-04"
+  lastUpdated: "2025-09-07"
 };
