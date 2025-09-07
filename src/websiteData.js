@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/9/7 22:15:28
+// 网站数据 - 通过管理后台更新于 2025/9/7 22:20:18
 
 // 站点配置
 export const siteConfig = {
@@ -856,6 +856,15 @@ export const websiteData = [
     "category": "category_1755962110799",
     "tags": [],
     "icon": "https://icon.nbvil.com/favicon?url=aicnn.cn"
+  },
+  {
+    "id": 1757254817379,
+    "name": "Nano Banana",
+    "description": "Nano Banana - AI Image Editor | Edit Photos with Text",
+    "url": "https://nanobanana.ai/",
+    "category": "category_1755962110799",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=nanobanana.ai"
   },
   {
     "id": 33,
