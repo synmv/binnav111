@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/9/7 22:20:18
+// 网站数据 - 通过管理后台更新于 2025/9/8 20:20:00
 
 // 站点配置
 export const siteConfig = {
@@ -764,6 +764,15 @@ export const websiteData = [
     "category": "category_1751811714830",
     "tags": [],
     "icon": "https://icon.nbvil.com/favicon?url=kelaode.ai"
+  },
+  {
+    "id": 1757333999364,
+    "name": "Cherry Studio",
+    "description": "Cherry Studio 官方网站 - 全能的 AI 助手",
+    "url": "https://www.cherry-ai.com/",
+    "category": "category_1751811714830",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=cherry-ai.com"
   },
   {
     "id": 1751812924193,
@@ -1550,5 +1559,5 @@ export const siteStats = {
   totalSites: websiteData.length,
   totalCategories: categories.length,
   totalTags: [...new Set(websiteData.flatMap(site => site.tags || []))].length,
-  lastUpdated: "2025-09-07"
+  lastUpdated: "2025-09-08"
 };
