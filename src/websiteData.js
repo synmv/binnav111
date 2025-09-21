@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/9/20 22:23:01
+// 网站数据 - 通过管理后台更新于 2025/9/21 10:17:54
 
 // 站点配置
 export const siteConfig = {
@@ -84,6 +84,15 @@ export const websiteData = [
       "PPT"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=www.1ppt.com"
+  },
+  {
+    "id": 1758421072277,
+    "name": "老王导航",
+    "description": "老王导航-个人专属导航页-Navitem",
+    "url": "https://nav.eooce.com/",
+    "category": "recommended",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=nav.eooce.com"
   },
   {
     "id": 1756989719734,
@@ -1568,5 +1577,5 @@ export const siteStats = {
   totalSites: websiteData.length,
   totalCategories: categories.length,
   totalTags: [...new Set(websiteData.flatMap(site => site.tags || []))].length,
-  lastUpdated: "2025-09-20"
+  lastUpdated: "2025-09-21"
 };
