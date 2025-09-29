@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/9/21 10:17:54
+// 网站数据 - 通过管理后台更新于 2025/9/29 下午2:28:31
 
 // 站点配置
 export const siteConfig = {
@@ -93,6 +93,15 @@ export const websiteData = [
     "category": "recommended",
     "tags": [],
     "icon": "https://icon.nbvil.com/favicon?url=nav.eooce.com"
+  },
+  {
+    "id": 1759127308471,
+    "name": "Mikutools",
+    "description": "MikuTools - 一个轻量的工具集合",
+    "url": "https://tools.miku.ac/",
+    "category": "recommended",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=tools.miku.ac"
   },
   {
     "id": 1756989719734,
@@ -1577,5 +1586,5 @@ export const siteStats = {
   totalSites: websiteData.length,
   totalCategories: categories.length,
   totalTags: [...new Set(websiteData.flatMap(site => site.tags || []))].length,
-  lastUpdated: "2025-09-21"
+  lastUpdated: "2025-09-29"
 };
