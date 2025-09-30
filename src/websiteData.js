@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/9/29 下午2:28:31
+// 网站数据 - 通过管理后台更新于 2025/9/30 上午11:38:39
 
 // 站点配置
 export const siteConfig = {
@@ -180,6 +180,17 @@ export const websiteData = [
     "category": "category_1756717842012",
     "tags": [],
     "icon": "https://icon.nbvil.com/favicon?url=www.cadzxw.com"
+  },
+  {
+    "id": 1759203517470,
+    "name": "机械社区",
+    "description": "",
+    "url": "http://www.cmiw.cn/",
+    "category": "category_1756717842012",
+    "tags": [
+      "社区，机械"
+    ],
+    "icon": "/assets/logo.png"
   },
   {
     "id": 1756045687225,
@@ -1586,5 +1597,5 @@ export const siteStats = {
   totalSites: websiteData.length,
   totalCategories: categories.length,
   totalTags: [...new Set(websiteData.flatMap(site => site.tags || []))].length,
-  lastUpdated: "2025-09-29"
+  lastUpdated: "2025-09-30"
 };
