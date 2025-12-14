@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/9/30 上午11:38:39
+// 网站数据 - 通过管理后台更新于 2025/12/14 19:32:26
 
 // 站点配置
 export const siteConfig = {
@@ -102,6 +102,17 @@ export const websiteData = [
     "category": "recommended",
     "tags": [],
     "icon": "https://icon.nbvil.com/favicon?url=tools.miku.ac"
+  },
+  {
+    "id": 1765711943286,
+    "name": "代理网站",
+    "description": "",
+    "url": "https://siteproxy.libk.top/",
+    "category": "recommended",
+    "tags": [
+      "proxy"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=siteproxy.libk.top"
   },
   {
     "id": 1756989719734,
@@ -1597,5 +1608,5 @@ export const siteStats = {
   totalSites: websiteData.length,
   totalCategories: categories.length,
   totalTags: [...new Set(websiteData.flatMap(site => site.tags || []))].length,
-  lastUpdated: "2025-09-30"
+  lastUpdated: "2025-12-14"
 };
