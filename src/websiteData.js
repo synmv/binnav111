@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/12/14 19:32:26
+// 网站数据 - 通过管理后台更新于 2025/12/19 15:08:35
 
 // 站点配置
 export const siteConfig = {
@@ -1089,15 +1089,6 @@ export const websiteData = [
     "icon": "https://icon.nbvil.com/favicon?url=vn.llk.xx.kg"
   },
   {
-    "id": 1758378107838,
-    "name": "SynTV",
-    "description": "",
-    "url": "https://tv.488877.xyz/",
-    "category": "category_1756033344174",
-    "tags": [],
-    "icon": "https://icon.nbvil.com/favicon?url=tv.488877.xyz"
-  },
-  {
     "id": 1755950507987,
     "name": "Node.js专业中文社区",
     "description": "国内最专业的 Node.js 开源技术社区，致力于 Node.js 的技术研究",
@@ -1608,5 +1599,5 @@ export const siteStats = {
   totalSites: websiteData.length,
   totalCategories: categories.length,
   totalTags: [...new Set(websiteData.flatMap(site => site.tags || []))].length,
-  lastUpdated: "2025-12-14"
+  lastUpdated: "2025-12-19"
 };
