@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/12/19 15:08:35
+// 网站数据 - 通过管理后台更新于 2026/1/16 19:15:59
 
 // 站点配置
 export const siteConfig = {
@@ -729,6 +729,17 @@ export const websiteData = [
       "水罐车"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=www.mercedes-benz-trucks.com"
+  },
+  {
+    "id": 1768562156335,
+    "name": "jjkane",
+    "description": "美国二手车平台",
+    "url": "https://www.jjkane.com/categories/bucket-trucks/",
+    "category": "category_1756543081776",
+    "tags": [
+      "二手车"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=www.jjkane.com"
   },
   {
     "id": 1751811992820,
@@ -1599,5 +1610,5 @@ export const siteStats = {
   totalSites: websiteData.length,
   totalCategories: categories.length,
   totalTags: [...new Set(websiteData.flatMap(site => site.tags || []))].length,
-  lastUpdated: "2025-12-19"
+  lastUpdated: "2026-01-16"
 };
