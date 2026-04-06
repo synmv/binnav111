@@ -1,8 +1,8 @@
-// 网站数据 - 通过管理后台更新于 2026/4/6 19:34:16
+// 网站数据 - 通过管理后台更新于 2026/4/6 23:08:50
 
 // 站点配置
 export const siteConfig = {
-  "siteName": "Synapse'Bookmarks",
+  "siteName": "Synapse's Bookmarks",
   "siteTitle": "Synapse - 导航",
   "siteLogo": "/assets/logo.png",
   "siteDescription": "二进制导航页面，精选优质站点",
@@ -113,6 +113,15 @@ export const websiteData = [
       "proxy"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=proxyorb.com"
+  },
+  {
+    "id": 1775488128941,
+    "name": "ilovepdf",
+    "description": "",
+    "url": "https://www.ilovepdf.com/zh-cn",
+    "category": "recommended",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=www.ilovepdf.com"
   },
   {
     "id": 1756989719734,
