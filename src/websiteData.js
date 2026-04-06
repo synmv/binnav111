@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/2/19 21:54:25
+// 网站数据 - 通过管理后台更新于 2026/4/6 19:34:16
 
 // 站点配置
 export const siteConfig = {
@@ -107,12 +107,12 @@ export const websiteData = [
     "id": 1765711943286,
     "name": "代理网站",
     "description": "",
-    "url": "https://siteproxy.libk.top/",
+    "url": "https://proxyorb.com/zh-Hans",
     "category": "recommended",
     "tags": [
       "proxy"
     ],
-    "icon": "https://icon.nbvil.com/favicon?url=siteproxy.libk.top"
+    "icon": "https://icon.nbvil.com/favicon?url=proxyorb.com"
   },
   {
     "id": 1756989719734,
@@ -1610,5 +1610,5 @@ export const siteStats = {
   totalSites: websiteData.length,
   totalCategories: categories.length,
   totalTags: [...new Set(websiteData.flatMap(site => site.tags || []))].length,
-  lastUpdated: "2026-02-19"
+  lastUpdated: "2026-04-06"
 };
