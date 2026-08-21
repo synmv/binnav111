@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/4/6 23:08:50
+// 网站数据 - 通过管理后台更新于 2026/8/21 10:01:56
 
 // 站点配置
 export const siteConfig = {
@@ -122,6 +122,17 @@ export const websiteData = [
     "category": "recommended",
     "tags": [],
     "icon": "https://icon.nbvil.com/favicon?url=www.ilovepdf.com"
+  },
+  {
+    "id": 1787277713875,
+    "name": "PDF24",
+    "description": "PDF24 Tools: 免费且易于使用的在线PDF工具",
+    "url": "https://tools.pdf24.org/zh/all-tools",
+    "category": "recommended",
+    "tags": [
+      "PDF工具"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=tools.pdf24.org"
   },
   {
     "id": 1756989719734,
@@ -1619,5 +1630,5 @@ export const siteStats = {
   totalSites: websiteData.length,
   totalCategories: categories.length,
   totalTags: [...new Set(websiteData.flatMap(site => site.tags || []))].length,
-  lastUpdated: "2026-04-06"
+  lastUpdated: "2026-08-21"
 };
