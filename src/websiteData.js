@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/8/21 10:01:56
+// 网站数据 - 通过管理后台更新于 2026/11/10 12:01:30
 
 // 站点配置
 export const siteConfig = {
@@ -1105,10 +1105,10 @@ export const websiteData = [
     "id": 1756040539296,
     "name": "樱桃8影视",
     "description": "最新电影在线看,最新电影下载,免费高清电影网",
-    "url": "https://yt.jk.loc.cc/",
+    "url": "https://aitv.hyperphp.com",
     "category": "category_1756033344174",
     "tags": [],
-    "icon": "https://icon.nbvil.com/favicon?url=yt.jk.loc.cc"
+    "icon": "/assets/logo.png"
   },
   {
     "id": 1756040574259,
@@ -1630,5 +1630,5 @@ export const siteStats = {
   totalSites: websiteData.length,
   totalCategories: categories.length,
   totalTags: [...new Set(websiteData.flatMap(site => site.tags || []))].length,
-  lastUpdated: "2026-08-21"
+  lastUpdated: "2026-11-10"
 };
